@@ -1,0 +1,138 @@
+// -*- mode: jsonc -*-
+{
+     "layer": "top", // Waybar at top layer
+     "position": "top", // Waybar position (top|bottom|left|right)
+    "height": 40, // Waybar height (to be removed for auto height)
+    // "width": 1280, // Waybar width
+    "spacing": 3, // Gaps between modules (4px)
+    // Choose the order of the modules
+    "modules-left": [
+        "custom/arch-icon",
+        "cava",
+        "hyprland/workspaces"
+    ],
+    "modules-center": [
+        "custom/clock"
+    ],
+    "modules-right": [
+        "pulseaudio",
+        "network",
+        "cpu",
+        "memory",
+        "temperature",
+        "keyboard-state",
+        "tray"
+    ],
+    // Modules configuration
+     "custom/arch-icon": {
+       "format": "      ",      // Arch 图标字符
+       "tooltip": false,   // 无需提示
+      },
+     "hyprland/workspaces": {
+          "format": "{icon}",
+          "on-click": "activate",
+           "format-icons": {
+            "1": "壹",  // 或使用 "\u58F9"
+            "2": "贰",
+            "3": "叁",
+            "4": "肆",
+            "5": "伍",
+            "6": "陆",
+            "7": "柒",
+            "8": "捌",
+            "9": "玖",
+          "urgent": "⚠",
+          "active": "➤",
+          "default": "○"
+           },
+          "sort-by-number": true
+      },        
+  "keyboard-state": {
+            "numlock": true,
+            "capslock": true,
+            "format": "{name} {icon}",
+            "format-icons": {
+                  "locked": "  ",
+                  "unlocked": "  "
+            }
+        },
+    "cava": {
+        "framerate": 42,
+        "bars": 30,
+        "bar_delimiter": 0,  // 设为 0 以移除隔线
+        "method": "pipewire",  // 根据音频后端选择：pipewire、pulse、alsa等
+        "autosens": 1,         // 自动灵敏度调整
+        "format-icons": ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█"],
+        "hide_on_silence": true
+    },
+    "tray": {
+        "icon-size": 21,
+        "spacing": 8,
+        // "icons": {
+        //   "blueman": "bluetooth",
+        //   "TelegramDesktop": "$HOME/.local/share/icons/hicolor/16x16/apps/telegram.png"
+        // }
+    },
+    "custom/clock": {
+        "interval": 1,      
+        "exec": "~/.config/waybar/scripts/japanesedates.sh"
+    },
+    "cpu": {
+        "format": "{usage}%   ",
+        "tooltip": false
+    },
+    "memory": {
+        "format": "{}% "
+    },
+    "temperature": {
+        // "thermal-zone": 2,
+        // "hwmon-path": "/sys/class/hwmon/hwmon2/temp1_input",
+        "critical-threshold": 80,
+        "format-critical": "{temperatureC}°C{icon}",
+        "format": "{temperatureC}°C{icon}",
+        "format-icons": ["  ", "  ", "  "]
+    },
+    "network": {
+        // "interface": "wlp2*", // (Optional) To force the use of this interface
+        "interval": 5,                   // 刷新间隔（秒）
+        "format-wifi": "{essid} ({signalStrength}%)   ",
+        "format-ethernet": "  ethernet connected   ",
+        "format-linked": "{ifname} (No IP)   ",
+        "format-disconnected": "Disconnected ⚠ ",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}",
+        "tooltip": true,                 // 启用悬浮提示
+        "tooltip-format": "IP: {ipaddr}\n网关: {gwaddr}", // 提示详情
+        "format-icons": [                // 信号强度图标（低→高）
+        " ▁ ", " ▂ ", " ▃ ", " ▄ ", " ▅ ", " ▆ ", " ▇ ", " █ "
+        ]
+    },
+    "pulseaudio": {
+        // "scroll-step": 1, // %, can be a float
+        "format": " {volume}% {icon} {format_source} ",
+        "format-bluetooth": "{volume}%{icon}   {format_source}",
+        "format-bluetooth-muted": "   {icon}   {format_source}",
+        "format-muted": "   {format_source}",
+        "format-source": "{volume}%   ",
+        "format-source-muted": "  ",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "car": "",
+            "default": ["  ", "  ", "  "]
+        },
+        "on-click": "pavucontrol"
+    },
+		"tooltip": false,
+		"menu": "on-click",
+		"menu-file": "$HOME/.config/waybar/power_menu.xml", // Menu file in resources folder
+		"menu-actions": {
+			"shutdown": "shutdown",
+			"reboot": "reboot",
+			"suspend": "systemctl suspend",
+			"hibernate": "systemctl hibernate"
+		}
+    }
+}

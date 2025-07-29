@@ -1,0 +1,38 @@
+*{
+  font-family: "JetBrains Mono";  
+  font-size: 14px;
+  min-height: 0;
+  border-radius: 16px;
+}
+window {
+background-color: 	rgba(100, 149, 237, 0.3);
+margin:5px rgba(107,138,166,0.7);
+border: 1px solid rgba(180, 190, 254, 0.2); /* 柔和边框 */
+padding: 20px;
+}
+window#wofi entry {
+  /* Your styles here */
+  color: rgba(0,66,37,1);
+}
+#input {
+background-color: 	rgba(100, 149, 237, 0.2);
+border: none;
+box-shadow: none;
+outline: none;
+border-radius:5;
+padding-left: 6px;
+color: rgba(0,66,37,1);
+}
+
+#list{
+  border-radius:5;
+}
+
+#text {
+color: rgba(0,0,0,0.5);
+}
+
+#entry:selected {
+background-color: rgba(100, 149, 237, 0.4);
+color: rgba(0,0,0,1)
+}
