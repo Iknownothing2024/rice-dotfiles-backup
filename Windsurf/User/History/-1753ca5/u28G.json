@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "microsoft-sovereign-cloud.customEnvironment": {
+        
+    },
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "rust-analyzer.server.path": "/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu/bin/rust-analyzer"
+}

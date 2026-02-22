@@ -1,0 +1,1512 @@
+2026-02-21 10:06:22.180 [info] Extension host with pid 24159 started
+2026-02-21 10:06:22.181 [info] Skipping acquiring lock for /home/archguy/.config/Windsurf/User/workspaceStorage/cebdf52d45ea236ac1955a7b3d620a38.
+2026-02-21 10:06:22.375 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-21 10:06:22.393 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2026-02-21 10:06:22.398 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2026-02-21 10:06:22.820 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-21 10:06:23.500 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-21 10:06:24.022 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2026-02-21 10:06:24.072 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-02-21 10:06:24.092 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-02-21 10:06:24.308 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-02-21 10:06:24.528 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-02-21 10:06:29.328 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-21 10:06:29.342 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-02-21 10:06:33.985 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:06:33.988 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:06:34.012 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:07:05.854 [info] Eager extensions activated
+2026-02-21 10:07:06.858 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1616835)
+	at /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153604
+	at e.activate (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153749)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async xD.n (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14118)
+	at async xD.m (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14081)
+	at async xD.l (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13537)
+2026-02-21 10:58:35.591 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-21 10:58:35.623 [info] Extension host with pid 24159 exiting with code 0
+2026-02-21 10:58:37.153 [info] Extension host with pid 52424 started
+2026-02-21 10:58:37.153 [info] Skipping acquiring lock for /home/archguy/.config/Windsurf/User/workspaceStorage/245536568feaf1fe62d92c8ec8a5f027.
+2026-02-21 10:58:37.236 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-21 10:58:37.252 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2026-02-21 10:58:37.255 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2026-02-21 10:58:37.651 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2026-02-21 10:58:37.763 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2026-02-21 10:58:37.796 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-02-21 10:58:38.204 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-02-21 10:58:38.243 [info] ExtensionService#_doActivateExtension rust-lang.rust-analyzer, startup: true, activationEvent: 'workspaceContains:*/Cargo.toml,*/rust-project.json'
+2026-02-21 10:58:38.296 [info] ExtensionService#_doActivateExtension tauri-apps.tauri-vscode, startup: true, activationEvent: 'workspaceContains:**/tauri.conf.json,**/tauri.*.conf.json,**/tauri.conf.json5,**/tauri.*.conf.json5'
+2026-02-21 10:58:39.981 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-02-21 10:58:40.355 [info] Eager extensions activated
+2026-02-21 10:58:40.372 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:58:40.374 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:58:40.389 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-02-21 10:58:40.962 [error] ExtensionError: Error in extension codeium.windsurf: FAILED to handle event
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:110100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.D (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at Yae.$acceptModelSaved (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:122899)
+	at GR.S (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126329)
+	at GR.Q (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126109)
+	at GR.M (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125198)
+	at GR.L (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124303)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:9326)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:7560)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-21 10:58:41.357 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1616835)
+	at /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153604
+	at e.activate (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153749)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async xD.n (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14118)
+	at async xD.m (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14081)
+	at async xD.l (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13537)
+2026-02-21 10:58:43.734 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-21 10:58:43.740 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-21 10:58:43.748 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-02-21 11:07:16.868 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-02-21 11:10:01.765 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-21 11:10:02.078 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-02-21 11:18:41.748 [info] ExtensionService#_doActivateExtension codeium.windsurf-remote-openssh, startup: false, activationEvent: 'onView:windsurfSSHHosts'
+2026-02-21 12:56:36.203 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-02-21 13:28:51.267 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.267 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.269 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.269 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.273 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.273 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.277 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.277 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.280 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.280 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.284 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.284 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.417 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.417 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.419 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.420 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.435 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.435 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.443 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.443 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.460 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.460 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.463 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.463 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.466 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.466 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.471 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.471 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.474 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.474 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.477 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.477 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.555 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.555 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 13:28:51.848 [error] [vscode.typescript-language-features] provider FAILED
+2026-02-21 13:28:51.848 [error] Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 15:10:24.894 [error] Error: Cannot show while inline completion is already showing
+    at vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:430:400090
+2026-02-21 15:32:39.869 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-21 15:32:39.908 [error] Canceled: Canceled
+	at new Uz (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:121756)
+	at GR.U (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126366)
+	at s.<computed>.r.charCodeAt.s.<computed> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123860)
+	at JD.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:44091)
+	at JD.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:43595)
+	at i.registerCommand.description (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:42925)
+	at JD.h (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:44611)
+	at JD.g (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:43688)
+	at JD.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:43595)
+	at Object.executeCommand (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:112020)
+	at Tl (/home/archguy/.windsurf/extensions/rust-lang.rust-analyzer-0.3.1277-linux-x64/out/main.js:39:61557)
+	at Object.DS (/home/archguy/.windsurf/extensions/rust-lang.rust-analyzer-0.3.1277-linux-x64/out/main.js:99:358)
+	at xde.eb (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:13147)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11296
+	at Array.map (<anonymous>)
+	at xde.$ (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11284)
+	at xde.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11527)
+	at IG.terminate (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:123:915)
+	at lr (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:11127)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:7600)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-21 15:32:39.910 [info] Extension host with pid 52424 exiting with code 0
+2026-02-21 15:32:39.911 [error] ReferenceError: Cannot access 'g' before initialization
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:1323)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at u_.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5265)
+	at nt.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5676)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10400
+	at Set.forEach (<anonymous>)
+	at W7.f (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10387)
+	at process.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:9634)
+	at Object.onceWrapper (node:events:634:26)
+	at process.emit (node:events:531:35)
+	at process.exit (node:internal/process/per_thread:240:15)
+	at Object.exit (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:10932)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11749
+	at <anonymous>
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9)
+2026-02-21 15:32:39.911 [error] ReferenceError: Cannot access 'g' before initialization
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:1323)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at u_.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5265)
+	at nt.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5676)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10400
+	at Set.forEach (<anonymous>)
+	at W7.f (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10387)
+	at process.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:9634)
+	at Object.onceWrapper (node:events:634:26)
+	at process.emit (node:events:531:35)
+	at process.exit (node:internal/process/per_thread:240:15)
+	at Object.exit (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:10932)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11749
+	at <anonymous>
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9)
+2026-02-21 15:32:39.911 [error] ReferenceError: Cannot access 'g' before initialization
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:138:1323)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at u_.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5265)
+	at nt.cancel (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:5676)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10400
+	at Set.forEach (<anonymous>)
+	at W7.f (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:10387)
+	at process.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:9634)
+	at Object.onceWrapper (node:events:634:26)
+	at process.emit (node:events:531:35)
+	at process.exit (node:internal/process/per_thread:240:15)
+	at Object.exit (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:10932)
+	at file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:121:11749
+	at <anonymous>
+	at runNextTicks (node:internal/process/task_queues:65:5)
+	at process.processImmediate (node:internal/timers:453:9)

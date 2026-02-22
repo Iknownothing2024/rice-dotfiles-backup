@@ -1,0 +1,112 @@
+2026-02-19 13:27:49.137 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-02-19 13:27:49.183 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-02-19 13:27:49.559 [info] Started local extension host with pid 62084.
+2026-02-19 13:27:49.639 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2026-02-19 13:27:49.682 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2026-02-19 13:27:50.631 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-02-19 13:27:50.739 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at Q6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-02-19 13:27:53.053 [info] [perf] Render performance baseline is 16ms
+2026-02-19 13:28:02.557 [error] Cancelled: Canceled: Canceled
+    at $TCc.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:39320)
+    at async $TCc.K (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:38035)
+    at async $TCc.C (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:28315)
+    at async vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:27676
+    at async Promise.all (index 2)
+    at async $TCc.B (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:27598)
+    at async $TCc.getExtensions (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1655:26228)
+    at async $p2c.getExtensions (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:17530:15693)
+    at async $_1c.Rc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:17526:18860)
+    at async $_1c.$c (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:17526:21516)
+2026-02-19 13:28:19.279 [error] command 'windsurf.fireProductAnalyticsEvent' not found: Error: command 'windsurf.fireProductAnalyticsEvent' not found
+    at $UBc.n (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1573:6089)
+    at $UBc.executeCommand (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1573:6020)
+2026-02-19 13:28:33.443 [error] An unknown error occurred. Please consult the log for more details.
+2026-02-19 14:20:32.814 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/archguy/CascadeProjects/MyLibrary/vite.svg?version%3D1771482032685, resourceToLoad=file:///home/archguy/CascadeProjects/MyLibrary/vite.svg?version%3D1771482032685
+2026-02-19 14:20:33.690 [error] An unknown error occurred. Please consult the log for more details.
+2026-02-19 14:52:06.524 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 15:32:22.360 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:13:06.028 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:14:15.060 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:15:24.116 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:16:33.169 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:17:42.209 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:38:13.953 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:39:23.010 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:50:38.672 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:51:47.732 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 16:52:56.781 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 17:12:17.797 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-19 17:17:29.495 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)

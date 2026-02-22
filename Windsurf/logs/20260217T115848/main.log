@@ -1,0 +1,24 @@
+2026-02-17 11:58:49.557 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-17 11:58:49.561 [info] update#setState idle
+2026-02-17 11:59:19.391 [info] update#setState checking for updates
+2026-02-17 11:59:19.643 [info] update#setState idle
+2026-02-17 12:52:46.856 [info] Extension host with pid 88999 exited with code: 0, signal: unknown.
+2026-02-17 12:52:46.863 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-17 12:52:46.879 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state
+2026-02-17 12:52:46.895 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 89015]: crashed with code 15 and reason 'killed'
+2026-02-17 12:52:46.896 [error] === UTILITY PROCESS CRASH REPORT ===
+2026-02-17 12:52:46.896 [error] Time: 2026-02-17T04:52:46.895Z
+2026-02-17 12:52:46.896 [error] PID: 89015, Exit Code: 15 (Unknown exit code (15)), Reason: killed
+2026-02-17 12:52:46.896 [error] Process Type: fileWatcher
+2026-02-17 12:52:46.896 [error] Process ID: 1
+2026-02-17 12:52:46.896 [error] Entry Point: vs/platform/files/node/watcher/watcherMain
+2026-02-17 12:52:46.896 [error] Main Process Memory: RSS=199MB, Heap=18MB, External=4MB
+2026-02-17 12:52:46.896 [error] System Information:
+2026-02-17 12:52:46.896 [error]   - Node Version: v22.22.0
+2026-02-17 12:52:46.896 [error]   - Platform: linux_x64
+2026-02-17 12:52:46.896 [error]   - Electron Version: 39.5.2
+2026-02-17 12:52:46.896 [error] Active Utility Processes: 2 processes
+2026-02-17 12:52:46.896 [error] Sample Processes:
+2026-02-17 12:52:46.896 [error]   - shared-process (PID: 89014)
+2026-02-17 12:52:46.896 [error]   - pty-host (PID: 89080)
+2026-02-17 12:52:46.896 [error] === END UTILITY PROCESS CRASH REPORT ===

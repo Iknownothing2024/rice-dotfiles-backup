@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "editor.inlineSuggest.experimental.emptyResponseInformation": false,
+    "microsoft-sovereign-cloud.customEnvironment": {
+        
+    },
+    "explorer.confirmDelete": false,
+    "javascript.updateImportsOnFileMove.enabled": "always"
+}

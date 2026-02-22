@@ -1,0 +1,29 @@
+#User Preferences
+#Sun Oct 26 13:55:28 CST 2025
+G_FILE_CHOOSER.HEIGHT.Open\ a\ Ghidra\ Project=600
+G_FILE_CHOOSER.HEIGHT.Select\ File\ to\ Import=600
+G_FILE_CHOOSER.HEIGHT.Select\ a\ Ghidra\ Project\ Directory=600
+G_FILE_CHOOSER.ShowDotFiles=true
+G_FILE_CHOOSER.VIEW_STYLE.Open\ a\ Ghidra\ Project=SimpleView
+G_FILE_CHOOSER.VIEW_STYLE.Select\ File\ to\ Import=SimpleView
+G_FILE_CHOOSER.VIEW_STYLE.Select\ a\ Ghidra\ Project\ Directory=SimpleView
+G_FILE_CHOOSER.WIDTH.Open\ a\ Ghidra\ Project=800
+G_FILE_CHOOSER.WIDTH.Select\ File\ to\ Import=800
+G_FILE_CHOOSER.WIDTH.Select\ a\ Ghidra\ Project\ Directory=800
+GhidraShowWhatsNew=false
+LAST_USED_OPTIONS_CONFIG=Standard Defaults
+LastImportFile=/home/archguy/Downloads/junks/FuCKFOID
+LastOpenedProject=/home/archguy/MyTrove/cybersecurity-stuff/Be
+OPEN_PROGRAM_DIALOG.HEIGHT=557
+OPEN_PROGRAM_DIALOG.SHOW_HISTORY=false
+OPEN_PROGRAM_DIALOG.WIDTH_NO_HISTORY=350
+ProjectDirectory=/home/archguy/MyTrove/cybersecurity-stuff/
+RECENT_0=/home/archguy/Downloads/junks
+RECENT_1=/home/archguy/MyTrove/cybersecurity-stuff
+RecentProjects=/home/archguy/MyTrove/cybersecurity-stuff/Be
+SHOW.HELP.NAVIGATION.AID=true
+SHOW_TIPS=false
+TIP_INDEX=2
+Theme=Class\:generic.theme.builtin.FlatLightTheme
+USER_AGREEMENT=ACCEPT
+ViewedProjects=

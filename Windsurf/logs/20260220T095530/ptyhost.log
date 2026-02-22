@@ -1,0 +1,1 @@
+2026-02-20 09:55:36.921 [error] Failed to set sticky bit on /tmp/archguy-windsurf-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/archguy-windsurf-zsh'

@@ -1,0 +1,29 @@
+2026-02-18 20:58:52.223 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-18 20:58:52.225 [info] update#setState idle
+2026-02-18 20:59:22.050 [info] update#setState checking for updates
+2026-02-18 20:59:22.330 [info] update#setState available for download
+2026-02-18 20:59:47.677 [info] Extension host with pid 39333 exited with code: 0, signal: unknown.
+2026-02-18 20:59:47.754 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"245536568feaf1fe62d92c8ec8a5f027","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/MyLibrary","external":"file:///home/archguy/CascadeProjects/MyLibrary","path":"/home/archguy/CascadeProjects/MyLibrary","scheme":"file"}}}
+2026-02-18 20:59:47.767 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 39332]: crashed with code 15 and reason 'killed'
+2026-02-18 20:59:47.767 [error] === UTILITY PROCESS CRASH REPORT ===
+2026-02-18 20:59:47.767 [error] Time: 2026-02-18T12:59:47.767Z
+2026-02-18 20:59:47.767 [error] PID: 39332, Exit Code: 15 (Unknown exit code (15)), Reason: killed
+2026-02-18 20:59:47.767 [error] Process Type: fileWatcher
+2026-02-18 20:59:47.767 [error] Process ID: 1
+2026-02-18 20:59:47.767 [error] Entry Point: vs/platform/files/node/watcher/watcherMain
+2026-02-18 20:59:47.767 [error] Main Process Memory: RSS=197MB, Heap=16MB, External=4MB
+2026-02-18 20:59:47.767 [error] System Information:
+2026-02-18 20:59:47.767 [error]   - Node Version: v22.22.0
+2026-02-18 20:59:47.767 [error]   - Platform: linux_x64
+2026-02-18 20:59:47.767 [error]   - Electron Version: 39.5.2
+2026-02-18 20:59:47.767 [error] Active Utility Processes: 2 processes
+2026-02-18 20:59:47.767 [error] Sample Processes:
+2026-02-18 20:59:47.767 [error]   - shared-process (PID: 39331)
+2026-02-18 20:59:47.767 [error]   - pty-host (PID: 39400)
+2026-02-18 20:59:47.767 [error] === END UTILITY PROCESS CRASH REPORT ===
+2026-02-18 21:00:11.102 [info] update#setState idle
+2026-02-18 21:59:22.332 [info] update#setState checking for updates
+2026-02-18 21:59:25.189 [info] update#setState available for download
+2026-02-18 23:30:26.419 [info] Extension host with pid 41322 exited with code: 0, signal: unknown.
+2026-02-18 23:30:26.588 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"245536568feaf1fe62d92c8ec8a5f027","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/MyLibrary","external":"file:///home/archguy/CascadeProjects/MyLibrary","path":"/home/archguy/CascadeProjects/MyLibrary","scheme":"file"}}}
+2026-02-18 23:30:26.622 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

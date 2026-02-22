@@ -1,0 +1,9 @@
+# GIMP gimp-convolve-tool options
+
+(brush "Wilber")
+(dynamics "Dynamics Off")
+(palette "Color History")
+(brush-size 800)
+(brush-spacing 1)
+
+# end of gimp-convolve-tool options

@@ -1,0 +1,260 @@
+2026/02/20-09:55:30.699 1b19 Reusing MANIFEST /home/archguy/.config/Windsurf/Local Storage/leveldb/MANIFEST-000001
+2026/02/20-09:55:30.752 1b19 Recovering log #10588
+2026/02/20-09:55:30.759 1b19 Level-0 table #10591: started
+2026/02/20-09:55:30.770 1b19 Level-0 table #10591: 16890 bytes OK
+2026/02/20-09:55:30.783 1b19 Delete type=0 #10588
+2026/02/20-09:56:30.821 1b2d Level-0 table #10594: started
+2026/02/20-09:56:30.850 1b2d Level-0 table #10594: 16370 bytes OK
+2026/02/20-09:56:30.862 1b2d Delete type=0 #10592
+2026/02/20-09:56:30.863 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-09:56:30.870 1b2d Generated table #10595@0: 9 keys, 19248 bytes
+2026/02/20-09:56:30.870 1b2d Compacted 4@0 + 1@1 files => 19248 bytes
+2026/02/20-09:56:30.878 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-09:56:30.878 1b2d Delete type=2 #10589
+2026/02/20-09:56:30.878 1b2d Delete type=2 #10585
+2026/02/20-09:56:30.878 1b2d Delete type=2 #10587
+2026/02/20-09:56:30.878 1b2d Delete type=2 #10594
+2026/02/20-09:56:30.878 1b2d Delete type=2 #10591
+2026/02/20-09:57:32.651 1b2d Level-0 table #10597: started
+2026/02/20-09:57:33.287 1b2d Level-0 table #10597: 19356 bytes OK
+2026/02/20-09:57:33.754 1b2d Delete type=0 #10593
+2026/02/20-09:58:32.651 1b2d Level-0 table #10599: started
+2026/02/20-09:58:32.669 1b2d Level-0 table #10599: 16743 bytes OK
+2026/02/20-09:58:32.677 1b2d Delete type=0 #10596
+2026/02/20-09:59:32.650 1b2d Level-0 table #10601: started
+2026/02/20-09:59:32.658 1b2d Level-0 table #10601: 16993 bytes OK
+2026/02/20-09:59:32.666 1b2d Delete type=0 #10598
+2026/02/20-10:00:32.650 1b2d Level-0 table #10603: started
+2026/02/20-10:00:32.656 1b2d Level-0 table #10603: 16769 bytes OK
+2026/02/20-10:00:32.664 1b2d Delete type=0 #10600
+2026/02/20-10:00:32.664 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:00:32.670 1b2d Generated table #10604@0: 9 keys, 19523 bytes
+2026/02/20-10:00:32.670 1b2d Compacted 4@0 + 1@1 files => 19523 bytes
+2026/02/20-10:00:32.678 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:00:32.678 1b2d Delete type=2 #10597
+2026/02/20-10:00:32.678 1b2d Delete type=2 #10599
+2026/02/20-10:00:32.678 1b2d Delete type=2 #10603
+2026/02/20-10:00:32.678 1b2d Delete type=2 #10595
+2026/02/20-10:00:32.678 1b2d Delete type=2 #10601
+2026/02/20-10:01:32.651 1b2d Level-0 table #10606: started
+2026/02/20-10:01:32.891 1b2d Level-0 table #10606: 16931 bytes OK
+2026/02/20-10:01:32.899 1b2d Delete type=0 #10602
+2026/02/20-10:02:32.651 1b2d Level-0 table #10608: started
+2026/02/20-10:02:32.668 1b2d Level-0 table #10608: 16881 bytes OK
+2026/02/20-10:02:32.676 1b2d Delete type=0 #10605
+2026/02/20-10:03:32.651 1b2d Level-0 table #10610: started
+2026/02/20-10:03:32.670 1b2d Level-0 table #10610: 17010 bytes OK
+2026/02/20-10:03:32.678 1b2d Delete type=0 #10607
+2026/02/20-10:04:32.650 1b2d Level-0 table #10612: started
+2026/02/20-10:04:32.683 1b2d Level-0 table #10612: 16956 bytes OK
+2026/02/20-10:04:32.691 1b2d Delete type=0 #10609
+2026/02/20-10:04:32.691 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:04:32.698 1b2d Generated table #10613@0: 9 keys, 19695 bytes
+2026/02/20-10:04:32.698 1b2d Compacted 4@0 + 1@1 files => 19695 bytes
+2026/02/20-10:04:32.706 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:04:32.706 1b2d Delete type=2 #10612
+2026/02/20-10:04:32.706 1b2d Delete type=2 #10608
+2026/02/20-10:04:32.706 1b2d Delete type=2 #10604
+2026/02/20-10:04:32.706 1b2d Delete type=2 #10606
+2026/02/20-10:04:32.706 1b2d Delete type=2 #10610
+2026/02/20-10:05:32.650 1b2d Level-0 table #10615: started
+2026/02/20-10:05:32.657 1b2d Level-0 table #10615: 16890 bytes OK
+2026/02/20-10:05:32.666 1b2d Delete type=0 #10611
+2026/02/20-10:06:32.651 1b2d Level-0 table #10617: started
+2026/02/20-10:06:32.657 1b2d Level-0 table #10617: 16780 bytes OK
+2026/02/20-10:06:32.666 1b2d Delete type=0 #10614
+2026/02/20-10:07:32.650 1b19 Level-0 table #10619: started
+2026/02/20-10:07:32.656 1b19 Level-0 table #10619: 16726 bytes OK
+2026/02/20-10:07:32.664 1b19 Delete type=0 #10616
+2026/02/20-10:08:32.651 1b2d Level-0 table #10621: started
+2026/02/20-10:08:32.658 1b2d Level-0 table #10621: 16710 bytes OK
+2026/02/20-10:08:32.666 1b2d Delete type=0 #10618
+2026/02/20-10:08:32.666 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:08:32.673 1b2d Generated table #10622@0: 9 keys, 19414 bytes
+2026/02/20-10:08:32.673 1b2d Compacted 4@0 + 1@1 files => 19414 bytes
+2026/02/20-10:08:32.681 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:08:32.681 1b2d Delete type=2 #10617
+2026/02/20-10:08:32.681 1b2d Delete type=2 #10619
+2026/02/20-10:08:32.681 1b2d Delete type=2 #10613
+2026/02/20-10:08:32.681 1b2d Delete type=2 #10621
+2026/02/20-10:08:32.681 1b2d Delete type=2 #10615
+2026/02/20-10:09:32.651 1b2d Level-0 table #10624: started
+2026/02/20-10:09:32.658 1b2d Level-0 table #10624: 16848 bytes OK
+2026/02/20-10:09:32.666 1b2d Delete type=0 #10620
+2026/02/20-10:10:32.650 1b2d Level-0 table #10626: started
+2026/02/20-10:10:32.657 1b2d Level-0 table #10626: 16839 bytes OK
+2026/02/20-10:10:32.665 1b2d Delete type=0 #10623
+2026/02/20-10:11:32.651 1b2d Level-0 table #10628: started
+2026/02/20-10:11:32.750 1b2d Level-0 table #10628: 17054 bytes OK
+2026/02/20-10:11:32.759 1b2d Delete type=0 #10625
+2026/02/20-10:12:32.650 1b2d Level-0 table #10630: started
+2026/02/20-10:12:32.656 1b2d Level-0 table #10630: 16838 bytes OK
+2026/02/20-10:12:32.664 1b2d Delete type=0 #10627
+2026/02/20-10:12:32.665 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:12:32.671 1b2d Generated table #10631@0: 9 keys, 19568 bytes
+2026/02/20-10:12:32.671 1b2d Compacted 4@0 + 1@1 files => 19568 bytes
+2026/02/20-10:12:32.678 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:12:32.679 1b2d Delete type=2 #10622
+2026/02/20-10:12:32.679 1b2d Delete type=2 #10626
+2026/02/20-10:12:32.679 1b2d Delete type=2 #10630
+2026/02/20-10:12:32.679 1b2d Delete type=2 #10624
+2026/02/20-10:12:32.679 1b2d Delete type=2 #10628
+2026/02/20-10:13:32.650 1b2d Level-0 table #10633: started
+2026/02/20-10:13:32.657 1b2d Level-0 table #10633: 16846 bytes OK
+2026/02/20-10:13:32.665 1b2d Delete type=0 #10629
+2026/02/20-10:14:32.650 1b2d Level-0 table #10635: started
+2026/02/20-10:14:32.657 1b2d Level-0 table #10635: 16855 bytes OK
+2026/02/20-10:14:32.665 1b2d Delete type=0 #10632
+2026/02/20-10:15:32.652 1b2d Level-0 table #10637: started
+2026/02/20-10:15:32.659 1b2d Level-0 table #10637: 16951 bytes OK
+2026/02/20-10:15:32.668 1b2d Delete type=0 #10634
+2026/02/20-10:16:32.652 1b2d Level-0 table #10639: started
+2026/02/20-10:16:32.658 1b2d Level-0 table #10639: 16676 bytes OK
+2026/02/20-10:16:32.666 1b2d Delete type=0 #10636
+2026/02/20-10:16:32.666 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:16:32.673 1b2d Generated table #10640@0: 9 keys, 19377 bytes
+2026/02/20-10:16:32.673 1b2d Compacted 4@0 + 1@1 files => 19377 bytes
+2026/02/20-10:16:32.681 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:16:32.681 1b2d Delete type=2 #10639
+2026/02/20-10:16:32.681 1b2d Delete type=2 #10633
+2026/02/20-10:16:32.681 1b2d Delete type=2 #10637
+2026/02/20-10:16:32.681 1b2d Delete type=2 #10635
+2026/02/20-10:16:32.682 1b2d Delete type=2 #10631
+2026/02/20-10:17:32.652 1b2d Level-0 table #10642: started
+2026/02/20-10:17:32.658 1b2d Level-0 table #10642: 17009 bytes OK
+2026/02/20-10:17:32.666 1b2d Delete type=0 #10638
+2026/02/20-10:18:32.653 1b2d Level-0 table #10644: started
+2026/02/20-10:18:32.660 1b2d Level-0 table #10644: 16917 bytes OK
+2026/02/20-10:18:32.670 1b2d Delete type=0 #10641
+2026/02/20-10:19:32.652 1b2d Level-0 table #10646: started
+2026/02/20-10:19:32.663 1b2d Level-0 table #10646: 16757 bytes OK
+2026/02/20-10:19:32.674 1b2d Delete type=0 #10643
+2026/02/20-10:20:32.652 1b2d Level-0 table #10648: started
+2026/02/20-10:20:33.020 1b2d Level-0 table #10648: 16987 bytes OK
+2026/02/20-10:20:33.028 1b2d Delete type=0 #10645
+2026/02/20-10:20:33.028 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:20:33.035 1b2d Generated table #10649@0: 9 keys, 19677 bytes
+2026/02/20-10:20:33.035 1b2d Compacted 4@0 + 1@1 files => 19677 bytes
+2026/02/20-10:20:33.043 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:20:33.043 1b2d Delete type=2 #10644
+2026/02/20-10:20:33.043 1b2d Delete type=2 #10648
+2026/02/20-10:20:33.043 1b2d Delete type=2 #10640
+2026/02/20-10:20:33.043 1b2d Delete type=2 #10642
+2026/02/20-10:20:33.043 1b2d Delete type=2 #10646
+2026/02/20-10:21:32.653 1b2d Level-0 table #10651: started
+2026/02/20-10:21:32.723 1b2d Level-0 table #10651: 16930 bytes OK
+2026/02/20-10:21:32.731 1b2d Delete type=0 #10647
+2026/02/20-10:22:32.652 1b2d Level-0 table #10653: started
+2026/02/20-10:22:32.660 1b2d Level-0 table #10653: 16811 bytes OK
+2026/02/20-10:22:32.668 1b2d Delete type=0 #10650
+2026/02/20-10:23:32.653 1b2d Level-0 table #10655: started
+2026/02/20-10:23:32.661 1b2d Level-0 table #10655: 16848 bytes OK
+2026/02/20-10:23:32.669 1b2d Delete type=0 #10652
+2026/02/20-10:24:32.653 1b2d Level-0 table #10657: started
+2026/02/20-10:24:32.660 1b2d Level-0 table #10657: 16980 bytes OK
+2026/02/20-10:24:32.668 1b2d Delete type=0 #10654
+2026/02/20-10:24:32.669 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:24:32.676 1b2d Generated table #10658@0: 9 keys, 19715 bytes
+2026/02/20-10:24:32.676 1b2d Compacted 4@0 + 1@1 files => 19715 bytes
+2026/02/20-10:24:32.684 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:24:32.684 1b2d Delete type=2 #10655
+2026/02/20-10:24:32.684 1b2d Delete type=2 #10649
+2026/02/20-10:24:32.684 1b2d Delete type=2 #10651
+2026/02/20-10:24:32.684 1b2d Delete type=2 #10653
+2026/02/20-10:24:32.684 1b2d Delete type=2 #10657
+2026/02/20-10:25:32.653 1b2d Level-0 table #10660: started
+2026/02/20-10:25:32.665 1b2d Level-0 table #10660: 16895 bytes OK
+2026/02/20-10:25:32.673 1b2d Delete type=0 #10656
+2026/02/20-10:26:32.652 1b2d Level-0 table #10662: started
+2026/02/20-10:26:32.724 1b2d Level-0 table #10662: 16822 bytes OK
+2026/02/20-10:26:32.732 1b2d Delete type=0 #10659
+2026/02/20-10:27:32.651 1b2d Level-0 table #10664: started
+2026/02/20-10:27:32.659 1b2d Level-0 table #10664: 16997 bytes OK
+2026/02/20-10:27:32.667 1b2d Delete type=0 #10661
+2026/02/20-10:28:32.652 1b2d Level-0 table #10666: started
+2026/02/20-10:28:32.662 1b2d Level-0 table #10666: 16891 bytes OK
+2026/02/20-10:28:32.670 1b2d Delete type=0 #10663
+2026/02/20-10:28:32.670 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:28:32.677 1b2d Generated table #10667@0: 9 keys, 19565 bytes
+2026/02/20-10:28:32.677 1b2d Compacted 4@0 + 1@1 files => 19565 bytes
+2026/02/20-10:28:32.685 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:28:32.685 1b2d Delete type=2 #10666
+2026/02/20-10:28:32.685 1b2d Delete type=2 #10662
+2026/02/20-10:28:32.685 1b2d Delete type=2 #10664
+2026/02/20-10:28:32.686 1b2d Delete type=2 #10658
+2026/02/20-10:28:32.686 1b2d Delete type=2 #10660
+2026/02/20-10:29:32.652 1b2d Level-0 table #10669: started
+2026/02/20-10:29:32.659 1b2d Level-0 table #10669: 16914 bytes OK
+2026/02/20-10:29:32.667 1b2d Delete type=0 #10665
+2026/02/20-10:30:32.652 1b2d Level-0 table #10671: started
+2026/02/20-10:30:32.659 1b2d Level-0 table #10671: 19244 bytes OK
+2026/02/20-10:30:32.668 1b2d Delete type=0 #10668
+2026/02/20-10:31:32.652 1b2d Level-0 table #10673: started
+2026/02/20-10:31:32.768 1b2d Level-0 table #10673: 16697 bytes OK
+2026/02/20-10:31:32.776 1b2d Delete type=0 #10670
+2026/02/20-10:32:32.652 1b2d Level-0 table #10675: started
+2026/02/20-10:32:32.660 1b2d Level-0 table #10675: 16844 bytes OK
+2026/02/20-10:32:32.668 1b2d Delete type=0 #10672
+2026/02/20-10:32:32.668 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:32:32.675 1b2d Generated table #10676@0: 9 keys, 19752 bytes
+2026/02/20-10:32:32.675 1b2d Compacted 4@0 + 1@1 files => 19752 bytes
+2026/02/20-10:32:32.683 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:32:32.683 1b2d Delete type=2 #10675
+2026/02/20-10:32:32.683 1b2d Delete type=2 #10667
+2026/02/20-10:32:32.683 1b2d Delete type=2 #10673
+2026/02/20-10:32:32.683 1b2d Delete type=2 #10671
+2026/02/20-10:32:32.683 1b2d Delete type=2 #10669
+2026/02/20-10:33:32.651 1b2d Level-0 table #10678: started
+2026/02/20-10:33:32.663 1b2d Level-0 table #10678: 16709 bytes OK
+2026/02/20-10:33:32.671 1b2d Delete type=0 #10674
+2026/02/20-10:34:32.653 1b2d Level-0 table #10680: started
+2026/02/20-10:34:32.680 1b2d Level-0 table #10680: 16664 bytes OK
+2026/02/20-10:34:32.689 1b2d Delete type=0 #10677
+2026/02/20-10:35:32.653 1b2d Level-0 table #10682: started
+2026/02/20-10:35:32.665 1b2d Level-0 table #10682: 16646 bytes OK
+2026/02/20-10:35:32.673 1b2d Delete type=0 #10679
+2026/02/20-10:36:32.653 1b2d Level-0 table #10684: started
+2026/02/20-10:36:32.660 1b2d Level-0 table #10684: 16841 bytes OK
+2026/02/20-10:36:32.668 1b2d Delete type=0 #10681
+2026/02/20-10:36:32.668 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:36:32.676 1b2d Generated table #10685@0: 9 keys, 19731 bytes
+2026/02/20-10:36:32.676 1b2d Compacted 4@0 + 1@1 files => 19731 bytes
+2026/02/20-10:36:32.684 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:36:32.684 1b2d Delete type=2 #10680
+2026/02/20-10:36:32.684 1b2d Delete type=2 #10676
+2026/02/20-10:36:32.684 1b2d Delete type=2 #10684
+2026/02/20-10:36:32.684 1b2d Delete type=2 #10678
+2026/02/20-10:36:32.684 1b2d Delete type=2 #10682
+2026/02/20-10:37:32.653 1b2d Level-0 table #10687: started
+2026/02/20-10:37:32.667 1b2d Level-0 table #10687: 16852 bytes OK
+2026/02/20-10:37:32.675 1b2d Delete type=0 #10683
+2026/02/20-10:38:32.653 1b2d Level-0 table #10689: started
+2026/02/20-10:38:32.659 1b2d Level-0 table #10689: 16690 bytes OK
+2026/02/20-10:38:32.667 1b2d Delete type=0 #10686
+2026/02/20-10:39:32.653 1b2d Level-0 table #10691: started
+2026/02/20-10:39:32.665 1b2d Level-0 table #10691: 16643 bytes OK
+2026/02/20-10:39:32.673 1b2d Delete type=0 #10688
+2026/02/20-10:40:32.652 1b2d Level-0 table #10693: started
+2026/02/20-10:40:32.671 1b2d Level-0 table #10693: 16799 bytes OK
+2026/02/20-10:40:32.679 1b2d Delete type=0 #10690
+2026/02/20-10:40:32.679 1b2d Compacting 4@0 + 1@1 files
+2026/02/20-10:40:32.685 1b2d Generated table #10694@0: 9 keys, 19707 bytes
+2026/02/20-10:40:32.685 1b2d Compacted 4@0 + 1@1 files => 19707 bytes
+2026/02/20-10:40:32.693 1b2d compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/02/20-10:40:32.693 1b2d Delete type=2 #10693
+2026/02/20-10:40:32.693 1b2d Delete type=2 #10687
+2026/02/20-10:40:32.693 1b2d Delete type=2 #10691
+2026/02/20-10:40:32.693 1b2d Delete type=2 #10685
+2026/02/20-10:40:32.693 1b2d Delete type=2 #10689
+2026/02/20-10:41:32.652 1b2d Level-0 table #10696: started
+2026/02/20-10:41:32.671 1b2d Level-0 table #10696: 16734 bytes OK
+2026/02/20-10:41:32.679 1b2d Delete type=0 #10692
+2026/02/20-10:42:32.652 1b2d Level-0 table #10698: started
+2026/02/20-10:42:32.659 1b2d Level-0 table #10698: 16869 bytes OK
+2026/02/20-10:42:32.668 1b2d Delete type=0 #10695
+2026/02/20-10:43:32.653 1b2d Level-0 table #10700: started
+2026/02/20-10:43:32.660 1b2d Level-0 table #10700: 16636 bytes OK
+2026/02/20-10:43:32.672 1b2d Delete type=0 #10697
+2026/02/20-10:44:22.146 1b2d Level-0 table #10702: started
+2026/02/20-10:44:22.154 1b2d Level-0 table #10702: 16687 bytes OK
+2026/02/20-10:44:22.165 1b2d Delete type=0 #10699

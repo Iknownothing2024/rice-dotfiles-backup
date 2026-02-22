@@ -1,0 +1,10 @@
+2026-02-19 13:28:06.149 [info] Getting Manifest... tauri-apps.tauri-vscode
+2026-02-19 13:28:06.149 [info] Getting Manifest... rust-lang.rust-analyzer
+2026-02-19 13:28:07.046 [info] Installing extension: tauri-apps.tauri-vscode {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/archguy/.windsurf/extensions/extensions.json","path":"/home/archguy/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-02-12T11:12:55.995Z"}}
+2026-02-19 13:28:07.047 [info] Installing extension: rust-lang.rust-analyzer {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/archguy/.windsurf/extensions/extensions.json","path":"/home/archguy/.windsurf/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.0","date":"2026-02-12T11:12:55.995Z"}}
+2026-02-19 13:28:07.693 [info] Extracted extension to /home/archguy/.windsurf/extensions/.76faa5c4-9f34-477f-ba6e-fb513f5db304: tauri-apps.tauri-vscode
+2026-02-19 13:28:07.713 [info] Renamed to /home/archguy/.windsurf/extensions/tauri-apps.tauri-vscode-0.2.10-universal
+2026-02-19 13:28:16.507 [info] Extracted extension to /home/archguy/.windsurf/extensions/.13568624-bb8e-491e-b7c4-18457694ba9a: rust-lang.rust-analyzer
+2026-02-19 13:28:16.853 [info] Renamed to /home/archguy/.windsurf/extensions/rust-lang.rust-analyzer-0.3.1277-linux-x64
+2026-02-19 13:28:16.935 [info] Extension installed successfully: tauri-apps.tauri-vscode vscode-userdata:/home/archguy/.windsurf/extensions/extensions.json
+2026-02-19 13:28:16.935 [info] Extension installed successfully: rust-lang.rust-analyzer vscode-userdata:/home/archguy/.windsurf/extensions/extensions.json

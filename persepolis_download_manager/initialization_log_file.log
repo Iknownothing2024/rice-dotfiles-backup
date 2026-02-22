@@ -1,0 +1,114 @@
+===================================================
+Persepolis Download Manager, 2025/10/03 12:13:03
+2025-10-03 12:13:04,103 - initialization - INFO - chrome: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:04,103 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:04,107 - initialization - INFO - chromium: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:04,107 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:04,110 - initialization - INFO - firefox: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:04,110 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:04,257 - initialization - INFO - yt-dlp version: 2025.09.26
+2025-10-03 12:13:04,505 - initialization - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2025-10-03 12:13:04,506 - initialization - INFO - Persepolis is run as installed python madule.
+2025-10-03 12:13:04,545 - initialization - INFO - Persepolis will use ffmpeg that installed on user's system.
+2025-10-03 12:13:04,545 - initialization - INFO - 
+**********
+ffmpeg version n7.1.1 Copyright (c) 2000-2025 the FFmpeg developers
+built with gcc 15.1.1 (GCC) 20250425 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-
+libglslang --enable-libgsm --enable-libharfbuzz --enable-libiec61883
+--enable-libjack --enable-libjxl --enable-libmodplug --enable-
+libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb
+--enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-
+libplacebo --enable-libpulse --enable-librav1e --enable-librsvg
+--enable-librubberband --enable-libsnappy --enable-libsoxr --enable-
+libspeex --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-
+libtheora --enable-libv4l2 --enable-libvidstab --enable-libvmaf
+--enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp
+--enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2
+--enable-libxvid --enable-libzimg --enable-libzmq --enable-nvdec
+--enable-nvenc --enable-opencl --enable-opengl --enable-shared
+--enable-vapoursynth --enable-version3 --enable-vulkan libavutil
+59. 39.100 / 59. 39.100 libavcodec     61. 19.101 / 61. 19.101
+libavformat    61.  7.100 / 61.  7.100 libavdevice    61.  3.100 / 61.
+3.100 libavfilter    10.  4.100 / 10.  4.100 libswscale      8.  3.100
+/  8.  3.100 libswresample   5.  3.100 /  5.  3.100 libpostproc    58.
+3.100 / 58.  3.100
+**********
+
+2025-10-03 12:13:04,545 - initialization - INFO - ffmpeg command is: ffmpeg
+2025-10-03 12:13:04,545 - initialization - INFO - python version: 3.13.7 (main, Aug 15 2025, 12:34:02) [GCC 15.2.1 20250813]
+2025-10-03 12:13:04,546 - initialization - INFO - QT version: 6.9.2
+2025-10-03 12:13:04,546 - initialization - INFO - PySide version: 6.9.3
+2025-10-03 12:13:04,546 - initialization - INFO - Operating system: Linux
+2025-10-03 12:13:04,546 - initialization - INFO - Desktop env.: hyprland
+2025-10-03 12:13:05,976 - initialization - INFO - Download complete! /home/archguy/.local/share/persepolis_download_manager/sounds/queue.wav
+2025-10-03 12:13:05,986 - initialization - INFO - Download complete! /home/archguy/.local/share/persepolis_download_manager/sounds/fail.wav
+2025-10-03 12:13:05,988 - initialization - INFO - Download complete! /home/archguy/.local/share/persepolis_download_manager/sounds/warning.wav
+2025-10-03 12:13:05,996 - initialization - INFO - Download complete! /home/archguy/.local/share/persepolis_download_manager/sounds/ok.wav
+===================================================
+Persepolis Download Manager, 2025/10/03 12:13:18
+2025-10-03 12:13:18,964 - initialization - INFO - chrome: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:18,964 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:18,965 - initialization - INFO - chromium: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:18,965 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:18,966 - initialization - INFO - firefox: Json file is created successfully.
+persepolis intermediary file is created successfully.
+
+2025-10-03 12:13:18,966 - initialization - INFO - Persepolis intermediary path: /home/archguy/.config/persepolis_download_manager/persepolis_run_shell
+2025-10-03 12:13:19,064 - initialization - INFO - yt-dlp version: 2025.09.26
+2025-10-03 12:13:19,179 - initialization - INFO - Persepolis path is:
+	/usr/bin/persepolis
+2025-10-03 12:13:19,179 - initialization - INFO - Persepolis is run as installed python madule.
+2025-10-03 12:13:19,213 - initialization - INFO - Persepolis will use ffmpeg that installed on user's system.
+2025-10-03 12:13:19,213 - initialization - INFO - 
+**********
+ffmpeg version n7.1.1 Copyright (c) 2000-2025 the FFmpeg developers
+built with gcc 15.1.1 (GCC) 20250425 configuration: --prefix=/usr
+--disable-debug --disable-static --disable-stripping --enable-amf
+--enable-avisynth --enable-cuda-llvm --enable-lto --enable-fontconfig
+--enable-frei0r --enable-gmp --enable-gnutls --enable-gpl --enable-
+ladspa --enable-libaom --enable-libass --enable-libbluray --enable-
+libbs2b --enable-libdav1d --enable-libdrm --enable-libdvdnav --enable-
+libdvdread --enable-libfreetype --enable-libfribidi --enable-
+libglslang --enable-libgsm --enable-libharfbuzz --enable-libiec61883
+--enable-libjack --enable-libjxl --enable-libmodplug --enable-
+libmp3lame --enable-libopencore_amrnb --enable-libopencore_amrwb
+--enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-
+libplacebo --enable-libpulse --enable-librav1e --enable-librsvg
+--enable-librubberband --enable-libsnappy --enable-libsoxr --enable-
+libspeex --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-
+libtheora --enable-libv4l2 --enable-libvidstab --enable-libvmaf
+--enable-libvorbis --enable-libvpl --enable-libvpx --enable-libwebp
+--enable-libx264 --enable-libx265 --enable-libxcb --enable-libxml2
+--enable-libxvid --enable-libzimg --enable-libzmq --enable-nvdec
+--enable-nvenc --enable-opencl --enable-opengl --enable-shared
+--enable-vapoursynth --enable-version3 --enable-vulkan libavutil
+59. 39.100 / 59. 39.100 libavcodec     61. 19.101 / 61. 19.101
+libavformat    61.  7.100 / 61.  7.100 libavdevice    61.  3.100 / 61.
+3.100 libavfilter    10.  4.100 / 10.  4.100 libswscale      8.  3.100
+/  8.  3.100 libswresample   5.  3.100 /  5.  3.100 libpostproc    58.
+3.100 / 58.  3.100
+**********
+
+2025-10-03 12:13:19,213 - initialization - INFO - ffmpeg command is: ffmpeg
+2025-10-03 12:13:19,213 - initialization - INFO - python version: 3.13.7 (main, Aug 15 2025, 12:34:02) [GCC 15.2.1 20250813]
+2025-10-03 12:13:19,213 - initialization - INFO - QT version: 6.9.2
+2025-10-03 12:13:19,213 - initialization - INFO - PySide version: 6.9.3
+2025-10-03 12:13:19,213 - initialization - INFO - Operating system: Linux
+2025-10-03 12:13:19,213 - initialization - INFO - Desktop env.: hyprland

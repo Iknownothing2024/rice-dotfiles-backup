@@ -1,0 +1,35 @@
+2026-02-17 14:25:45.154 [info] [main] Log level: Info
+2026-02-17 14:25:45.154 [info] [main] Validating found git in: "git"
+2026-02-17 14:25:45.154 [info] [main] Using git "2.53.0" from "git"
+2026-02-17 14:25:45.154 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-17 14:25:45.154 [info] > git rev-parse --show-toplevel [16ms]
+2026-02-17 14:25:45.154 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [10ms]
+2026-02-17 14:25:45.154 [info] [Model][openRepository] Opened repository (path): /home/archguy/CascadeProjects/personal-website
+2026-02-17 14:25:45.154 [info] [Model][openRepository] Opened repository (real path): /home/archguy/CascadeProjects/personal-website
+2026-02-17 14:25:45.154 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-17 14:25:45.202 [info] > git rev-parse --show-toplevel [43ms]
+2026-02-17 14:25:45.203 [info] > git config --get commit.template [46ms]
+2026-02-17 14:25:45.218 [info] > git rev-parse --show-toplevel [11ms]
+2026-02-17 14:25:45.236 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [20ms]
+2026-02-17 14:25:45.238 [info] > git rev-parse --show-toplevel [4ms]
+2026-02-17 14:25:45.248 [info] > git status -z -uall [3ms]
+2026-02-17 14:25:45.249 [info] > git rev-parse --show-toplevel [9ms]
+2026-02-17 14:25:45.254 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-17 14:25:45.254 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2026-02-17 14:25:45.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2026-02-17 14:25:45.282 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2026-02-17 14:25:45.286 [info] > git config --get commit.template [10ms]
+2026-02-17 14:25:45.286 [info] > git rev-parse --show-toplevel [13ms]
+2026-02-17 14:25:45.290 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [5ms]
+2026-02-17 14:25:45.298 [info] > git rev-parse --show-toplevel [9ms]
+2026-02-17 14:25:45.301 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-17 14:25:45.318 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [21ms]
+2026-02-17 14:25:45.318 [info] > git merge-base refs/heads/main refs/remotes/origin/main [24ms]
+2026-02-17 14:25:45.333 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 49acfacc2978b64434ac4764b38e61e0d433a8b9...refs/remotes/origin/main -- [12ms]
+2026-02-17 14:25:45.341 [info] > git status -z -uall [3ms]
+2026-02-17 14:25:45.341 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-02-17 14:25:45.675 [info] > git check-ignore -v -z --stdin [3ms]
+2026-02-17 14:26:15.211 [info] > git config --get commit.template [7ms]
+2026-02-17 14:26:15.212 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2026-02-17 14:26:15.227 [info] > git status -z -uall [8ms]
+2026-02-17 14:26:15.228 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]

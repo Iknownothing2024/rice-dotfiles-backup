@@ -1,0 +1,82 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "86eaf9cc025612a8cc28b83948253dbf69eb446ba2299eb02d4a3d0c5b0267e9",
+    "telemetry.devDeviceId": "77ee7ea8-bce9-4dff-bcd1-01d7c21f4e05",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/archguy/CascadeProjects/personal-website"
+            },
+            {
+                "folderUri": "file:///home/archguy/CascadeProjects/MyLibrary"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/archguy/CascadeProjects/personal-website": "__default__profile__",
+            "file:///home/archguy/CascadeProjects/MyLibrary": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/archguy/CascadeProjects/MyLibrary",
+            "backupPath": "/home/archguy/.config/Windsurf/Backups/d57a263d4bf73b3cc74d5ae801bb2e0f",
+            "uiState": {
+                "mode": 0,
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 1080
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#272822",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#272822",
+            "editorBackground": "#272822",
+            "titleBarBackground": "#1e1f1c",
+            "activityBarBackground": "#272822",
+            "sideBarBackground": "#1e1f1c",
+            "statusBarBackground": "#414339",
+            "statusBarNoFolderBackground": "#414339"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 42,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 518,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windsurf.lsGroupsState": {},
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 518,
+            "workspaces": {
+                "cebdf52d45ea236ac1955a7b3d620a38": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "245536568feaf1fe62d92c8ec8a5f027": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

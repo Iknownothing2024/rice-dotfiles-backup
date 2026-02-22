@@ -1,0 +1,28 @@
+2026-02-17 00:37:19.405 [info] Extension host with pid 382419 started
+2026-02-17 00:37:19.405 [info] Skipping acquiring lock for /home/archguy/.config/Windsurf/User/workspaceStorage/cebdf52d45ea236ac1955a7b3d620a38.
+2026-02-17 00:37:19.651 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-17 00:37:19.667 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2026-02-17 00:37:19.669 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2026-02-17 00:37:20.045 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-02-17 00:37:20.900 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2026-02-17 00:37:20.952 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-02-17 00:37:21.011 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-02-17 00:37:21.530 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-02-17 00:37:23.170 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-02-17 00:37:23.297 [info] Eager extensions activated
+2026-02-17 00:37:23.315 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 00:37:23.318 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 00:37:23.338 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 00:37:24.301 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1616835)
+	at /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153604
+	at e.activate (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153749)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async xD.n (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14118)
+	at async xD.m (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14081)
+	at async xD.l (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13537)
+2026-02-17 00:37:26.326 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 00:37:26.332 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 00:37:26.340 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 01:42:32.653 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-17 01:42:32.706 [info] Extension host with pid 382419 exiting with code 0

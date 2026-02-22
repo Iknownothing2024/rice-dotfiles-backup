@@ -1,0 +1,2 @@
+2026-02-18 20:58:54.634 [info] Revived process, old id cebdf52d45ea236ac1955a7b3d620a38-1 -> new id 1
+2026-02-18 20:58:56.467 [error] Failed to set sticky bit on /tmp/archguy-windsurf-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/archguy-windsurf-zsh'

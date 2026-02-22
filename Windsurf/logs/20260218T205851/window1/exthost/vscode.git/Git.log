@@ -1,0 +1,99 @@
+2026-02-18 20:58:55.289 [info] [main] Log level: Info
+2026-02-18 20:58:55.289 [info] [main] Validating found git in: "git"
+2026-02-18 20:58:55.289 [info] [main] Using git "2.53.0" from "git"
+2026-02-18 20:58:55.289 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-18 20:58:55.289 [info] > git rev-parse --show-toplevel [4ms]
+2026-02-18 20:58:55.289 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [7ms]
+2026-02-18 20:58:55.289 [info] [Model][openRepository] Opened repository (path): /home/archguy/CascadeProjects/personal-website
+2026-02-18 20:58:55.289 [info] [Model][openRepository] Opened repository (real path): /home/archguy/CascadeProjects/personal-website
+2026-02-18 20:58:55.289 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-18 20:58:55.289 [info] > git rev-parse --show-toplevel [15ms]
+2026-02-18 20:58:55.289 [info] > git config --get commit.template [17ms]
+2026-02-18 20:58:55.289 [info] > git rev-parse --show-toplevel [29ms]
+2026-02-18 20:58:55.362 [info] > git rev-parse --show-toplevel [71ms]
+2026-02-18 20:58:55.362 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [81ms]
+2026-02-18 20:58:55.382 [info] > git rev-parse --show-toplevel [15ms]
+2026-02-18 20:58:55.471 [info] > git rev-parse --show-toplevel [9ms]
+2026-02-18 20:58:55.475 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 20:58:55.475 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-02-18 20:58:55.480 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 20:58:55.482 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-18 20:58:55.491 [info] > git status -z -uall [24ms]
+2026-02-18 20:58:55.509 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2026-02-18 20:58:55.513 [info] > git config --get --local branch.main.vscode-merge-base [1ms]
+2026-02-18 20:58:55.516 [info] > git config --get commit.template [7ms]
+2026-02-18 20:58:55.517 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2026-02-18 20:58:55.524 [info] > git merge-base refs/heads/main refs/remotes/origin/main [3ms]
+2026-02-18 20:58:55.526 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-02-18 20:58:55.532 [info] > git status -z -uall [3ms]
+2026-02-18 20:58:55.532 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a...refs/remotes/origin/main -- [6ms]
+2026-02-18 20:58:55.533 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2026-02-18 20:58:55.601 [info] > git show --textconv :public/shitsays/2026-02-18.md [4ms]
+2026-02-18 20:58:55.601 [info] > git ls-files --stage -- public/shitsays/2026-02-18.md [1ms]
+2026-02-18 20:58:55.605 [info] > git cat-file -s e9891b50ff5468488a3b5614023ee6db186569b2 [1ms]
+2026-02-18 20:58:55.689 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- public/shitsays/2026-02-18.md [67ms]
+2026-02-18 20:58:55.792 [info] > git check-ignore -v -z --stdin [1ms]
+2026-02-18 20:58:59.450 [info] > git config --get commit.template [7ms]
+2026-02-18 20:58:59.451 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2026-02-18 20:58:59.457 [info] > git status -z -uall [3ms]
+2026-02-18 20:58:59.458 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2026-02-18 20:59:01.281 [info] > git ls-files --stage -- src/components/NotFound.jsx [3ms]
+2026-02-18 20:59:01.285 [info] > git show --textconv :src/components/NotFound.jsx [11ms]
+2026-02-18 20:59:01.286 [info] > git cat-file -s b5919d7ab7952fd3f8160b70be60346265f9db5e [1ms]
+2026-02-18 20:59:01.302 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- src/components/NotFound.jsx [2ms]
+2026-02-18 20:59:01.507 [info] > git check-ignore -v -z --stdin [1ms]
+2026-02-18 20:59:02.915 [info] > git show --textconv :src/components/ImageDetail.jsx [5ms]
+2026-02-18 20:59:02.916 [info] > git ls-files --stage -- src/components/ImageDetail.jsx [3ms]
+2026-02-18 20:59:02.924 [info] > git cat-file -s 495909e9f25edee1ce0d4714159b10486c910fd5 [2ms]
+2026-02-18 20:59:03.090 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- src/components/ImageDetail.jsx [141ms]
+2026-02-18 20:59:03.408 [info] > git show --textconv :src/components/NotFound.jsx [3ms]
+2026-02-18 20:59:03.408 [info] > git ls-files --stage -- src/components/NotFound.jsx [0ms]
+2026-02-18 20:59:03.414 [info] > git cat-file -s b5919d7ab7952fd3f8160b70be60346265f9db5e [2ms]
+2026-02-18 20:59:03.962 [info] > git show --textconv :src/components/About.jsx [8ms]
+2026-02-18 20:59:03.964 [info] > git ls-files --stage -- src/components/About.jsx [4ms]
+2026-02-18 20:59:03.971 [info] > git cat-file -s 97552473c1d4d3840f80646e1135e6f2d946a591 [2ms]
+2026-02-18 20:59:03.987 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- src/components/About.jsx [5ms]
+2026-02-18 21:00:04.000 [info] [main] Log level: Info
+2026-02-18 21:00:04.000 [info] [main] Validating found git in: "git"
+2026-02-18 21:00:04.000 [info] [main] Using git "2.53.0" from "git"
+2026-02-18 21:00:04.000 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-18 21:00:04.000 [info] > git rev-parse --show-toplevel [6ms]
+2026-02-18 21:00:04.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 21:00:04.000 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-18 21:00:04.000 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 21:00:04.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 21:00:05.083 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 21:00:05.083 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 21:57:08.470 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 21:57:08.470 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 21:57:08.479 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 21:57:08.479 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 21:57:25.626 [info] > git rev-parse --show-toplevel [4ms]
+2026-02-18 21:57:25.626 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:20.033 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 22:00:20.033 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:20.552 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 22:00:20.553 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:40.733 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 22:00:40.733 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:45.619 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 22:00:45.619 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:46.989 [info] > git rev-parse --show-toplevel [1ms]
+2026-02-18 22:00:46.989 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:53.184 [info] > git rev-parse --show-toplevel [4ms]
+2026-02-18 22:00:53.184 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-02-18 22:00:56.627 [info] > git rev-parse --show-toplevel [3ms]
+2026-02-18 22:00:56.627 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

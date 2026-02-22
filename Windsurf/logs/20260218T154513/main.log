@@ -1,0 +1,7 @@
+2026-02-18 15:45:13.187 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-18 15:45:13.192 [info] update#setState idle
+2026-02-18 15:45:43.194 [info] update#setState checking for updates
+2026-02-18 15:45:43.426 [info] update#setState available for download
+2026-02-18 15:46:18.906 [info] Extension host with pid 114070 exited with code: 0, signal: unknown.
+2026-02-18 15:46:18.947 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-18 15:46:18.963 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

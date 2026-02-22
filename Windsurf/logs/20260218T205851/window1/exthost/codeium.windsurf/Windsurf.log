@@ -1,0 +1,24 @@
+2026-02-18 20:58:57.138 [info] (Windsurf) 2026-02-18 20:58:57.138 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-02-18 20:59:36.356 [info] (Windsurf) 2026-02-18 20:59:36.356 [INFO]: [windsurf#terminal] Shell integration FAILED for unknown, reason: failedToSetStickyBit
+2026-02-18 20:59:36.773 [info] 2026/02/18 20:59:36 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2026-02-18 20:59:36.968 [info] I0218 20:59:36.968200 40378 main.go:604] Setting GOMAXPROCS to 4
+2026-02-18 20:59:36.971 [info] I0218 20:59:36.971061 40378 main.go:819] Starting language server process with pid 40378
+2026-02-18 20:59:36.975 [info] I0218 20:59:36.975073 40378 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-02-18 20:59:36.975 [info] I0218 20:59:36.975824 40378 server.go:366] Language server listening on random port at 42771
+2026-02-18 20:59:37.802 [info] I0218 20:59:37.801482 40378 server.go:500] Created extension server client at port 36209
+2026-02-18 20:59:38.047 [info] (Windsurf) 2026-02-18 20:59:38.046 [INFO]: Language server started
+2026-02-18 20:59:38.066 [info] (Windsurf) 2026-02-18 20:59:38.066 [INFO]: LS lspClient started successfully
+2026-02-18 20:59:47.671 [info] (Windsurf) 2026-02-18 20:59:47.669 [INFO]: Shutting down all 0 managed language servers
+2026-02-18 20:59:51.870 [info] 2026/02/18 20:59:51 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2026-02-18 20:59:52.039 [info] I0218 20:59:52.038893 41392 main.go:604] Setting GOMAXPROCS to 4
+2026-02-18 20:59:52.039 [info] I0218 20:59:52.039266 41392 main.go:819] Starting language server process with pid 41392
+2026-02-18 20:59:52.039 [info] I0218 20:59:52.039721 41392 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-02-18 20:59:52.040 [info] I0218 20:59:52.040041 41392 server.go:366] Language server listening on random port at 46467
+2026-02-18 20:59:52.745 [info] I0218 20:59:52.744597 41392 server.go:500] Created extension server client at port 38981
+2026-02-18 20:59:52.822 [info] (Windsurf) 2026-02-18 20:59:52.821 [INFO]: Language server started
+2026-02-18 20:59:52.847 [info] (Windsurf) 2026-02-18 20:59:52.847 [INFO]: LS lspClient started successfully
+2026-02-18 21:00:04.591 [info] (Windsurf) 2026-02-18 21:00:04.591 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-02-18 21:00:04.997 [info] (Windsurf) 2026-02-18 21:00:04.997 [INFO]: [windsurf#terminal] Shell integration DETECTED for unknown
+2026-02-18 21:53:29.051 [info] 2026/02/18 21:53:29 Updated step 8 with response: selected_options:{indices:0}
+2026-02-18 22:00:24.443 [info] I0218 22:00:24.437497 41392 completion_provider.go:869] err: context canceled
+2026-02-18 23:30:26.414 [info] (Windsurf) 2026-02-18 23:30:26.413 [INFO]: Shutting down all 0 managed language servers

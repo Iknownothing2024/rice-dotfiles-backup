@@ -1,0 +1,32 @@
+2026-02-17 17:59:37.401 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-17 17:59:37.401 [info] update#setState idle
+2026-02-17 18:00:07.394 [info] update#setState checking for updates
+2026-02-17 18:00:07.631 [info] update#setState idle
+2026-02-17 19:00:07.632 [info] update#setState checking for updates
+2026-02-17 19:00:08.689 [info] update#setState idle
+2026-02-17 20:00:08.690 [info] update#setState checking for updates
+2026-02-17 20:00:09.498 [info] update#setState idle
+2026-02-17 21:00:09.501 [info] update#setState checking for updates
+2026-02-17 21:00:11.320 [info] update#setState idle
+2026-02-17 22:00:11.323 [info] update#setState checking for updates
+2026-02-17 22:00:11.987 [info] update#setState idle
+2026-02-17 22:02:07.772 [info] Extension host with pid 264844 exited with code: 0, signal: unknown.
+2026-02-17 22:02:07.789 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-17 22:02:07.804 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state
+2026-02-17 22:02:07.819 [error] [UtilityProcess id: 1, type: fileWatcher, pid: 264859]: crashed with code 15 and reason 'killed'
+2026-02-17 22:02:07.820 [error] === UTILITY PROCESS CRASH REPORT ===
+2026-02-17 22:02:07.820 [error] Time: 2026-02-17T14:02:07.820Z
+2026-02-17 22:02:07.820 [error] PID: 264859, Exit Code: 15 (Unknown exit code (15)), Reason: killed
+2026-02-17 22:02:07.820 [error] Process Type: fileWatcher
+2026-02-17 22:02:07.820 [error] Process ID: 1
+2026-02-17 22:02:07.820 [error] Entry Point: vs/platform/files/node/watcher/watcherMain
+2026-02-17 22:02:07.820 [error] Main Process Memory: RSS=213MB, Heap=19MB, External=4MB
+2026-02-17 22:02:07.820 [error] System Information:
+2026-02-17 22:02:07.820 [error]   - Node Version: v22.22.0
+2026-02-17 22:02:07.820 [error]   - Platform: linux_x64
+2026-02-17 22:02:07.820 [error]   - Electron Version: 39.5.2
+2026-02-17 22:02:07.820 [error] Active Utility Processes: 2 processes
+2026-02-17 22:02:07.820 [error] Sample Processes:
+2026-02-17 22:02:07.820 [error]   - shared-process (PID: 264858)
+2026-02-17 22:02:07.820 [error]   - pty-host (PID: 264918)
+2026-02-17 22:02:07.820 [error] === END UTILITY PROCESS CRASH REPORT ===

@@ -1,0 +1,104 @@
+2026-02-17 11:58:52.190 [info] Extension host with pid 88999 started
+2026-02-17 11:58:52.190 [info] Skipping acquiring lock for /home/archguy/.config/Windsurf/User/workspaceStorage/cebdf52d45ea236ac1955a7b3d620a38.
+2026-02-17 11:58:52.484 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-02-17 11:58:52.515 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2026-02-17 11:58:52.756 [info] ExtensionService#_doActivateExtension codeium.windsurf, startup: false, activationEvent: '*'
+2026-02-17 11:58:54.403 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+2026-02-17 11:58:54.567 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2026-02-17 11:58:54.618 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2026-02-17 11:58:54.693 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-02-17 11:58:54.977 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-02-17 11:58:59.869 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 11:58:59.889 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 11:58:59.902 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-02-17 11:59:02.448 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-02-17 11:59:02.819 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-02-17 11:59:04.483 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 11:59:04.572 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 11:59:04.597 [info] ExtensionService#_doActivateExtension Codeium.windsurf-dev-containers, startup: false, activationEvent: 'onStartupFinished'
+2026-02-17 11:59:35.845 [info] Eager extensions activated
+2026-02-17 11:59:36.045 [error] ExtensionError: Error in extension codeium.windsurf: FAILED to handle event
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:110100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.D (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:65838)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at pN.acceptDocumentsAndEditorsDelta (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:13403)
+	at pN.$acceptDocumentsAndEditorsDelta (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:11859)
+	at GR.S (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126329)
+	at GR.Q (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126109)
+	at GR.M (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125198)
+	at GR.L (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124303)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:9326)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:7560)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-17 11:59:36.847 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1616835)
+	at /usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153604
+	at e.activate (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1153749)
+	at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+	at async xD.n (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14118)
+	at async xD.m (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:14081)
+	at async xD.l (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:116:13537)
+2026-02-17 11:59:36.963 [error] ExtensionError: Error in extension codeium.windsurf: FAILED to handle event
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:110100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.D (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at xue.$acceptEditorPropertiesChanged (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:67282)
+	at GR.S (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126329)
+	at GR.Q (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126109)
+	at GR.M (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125198)
+	at GR.L (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124303)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:9326)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:7560)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-17 11:59:37.466 [error] Error: Language server has not been started!
+	at get client (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:1616835)
+	at C.leading (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:837725)
+	at Q (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4243248)
+	at l (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4243473)
+	at Timeout.c [as _onTimeout] (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:4243362)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-17 11:59:37.502 [error] ExtensionError: Error in extension codeium.windsurf: FAILED to handle event
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:110100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.D (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2398)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2615)
+	at xue.$acceptEditorPropertiesChanged (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:211:67170)
+	at GR.S (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126329)
+	at GR.Q (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:126109)
+	at GR.M (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:125198)
+	at GR.L (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:124303)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:123100)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at l_.value (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:9326)
+	at O.C (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2328)
+	at O.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:27:2546)
+	at Na.fire (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:29:9446)
+	at MessagePortMain.<anonymous> (file:///usr/share/windsurf/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:397:7560)
+	at MessagePortMain.emit (node:events:519:28)
+	at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-17 12:52:46.799 [info] Extension host terminating: renderer closed the MessagePort
+2026-02-17 12:52:46.855 [info] Extension host with pid 88999 exiting with code 0

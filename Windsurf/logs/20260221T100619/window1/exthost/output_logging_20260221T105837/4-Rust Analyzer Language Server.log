@@ -1,0 +1,190 @@
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 93, patch: 1 }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 93, patch: 1 }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 93, patch: 1 }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 93, patch: 1 }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  this version of Cargo is older than the `2025` edition, and only supports `2015`, `2018`, `2021`, and `2024` editions.
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: `cargo metadata` exited with an error: error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  this version of Cargo is older than the `2025` edition, and only supports `2015`, `2018`, `2021`, and `2024` editions.
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+[ERROR rust_analyzer::lsp_utils] rust-analyzer failed to load workspace: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `"cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu"`: failed to interpret `cargo metadata`'s json: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721: unknown variant `2024`, expected one of `2015`, `2018`, `2021` at line 1 column 79721
+
+2026-02-21T11:10:07.602370201+08:00 ERROR failed fetching cargo workspace root e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "locate-project" "--workspace" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+ cargo_toml=/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml
+2026-02-21T11:10:07.673361857+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.674993629+08:00 ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/archguy/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json", "--manifest-path", "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/archguy/CascadeProjects/MyLibrary/src-tauri") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.681668677+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.782652004+08:00 ERROR FetchWorkspaceError: rust-analyzer failed to load workspace: Failed to load the project at /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu" "--lockfile-path" "/tmp/rust-analyzerfd6e-9/Cargo.lock" "-Zunstable-options"`: `cargo metadata` exited with an error: warning: the `--lockfile-path` flag is deprecated and will be removed in a future release, use `resolver.lockfile-path` config instead
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+
+2026-02-21T11:10:07.823663837+08:00 ERROR failed fetching cargo workspace root e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "locate-project" "--workspace" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+ cargo_toml=/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml
+2026-02-21T11:10:07.891529444+08:00 ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/archguy/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json", "--manifest-path", "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/archguy/CascadeProjects/MyLibrary/src-tauri") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.897997158+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.899148166+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:07.951530957+08:00 ERROR FetchWorkspaceError: rust-analyzer failed to load workspace: Failed to load the project at /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu" "--lockfile-path" "/tmp/rust-analyzerfd6e-b/Cargo.lock" "-Zunstable-options"`: `cargo metadata` exited with an error: warning: the `--lockfile-path` flag is deprecated and will be removed in a future release, use `resolver.lockfile-path` config instead
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+
+2026-02-21T11:10:08.063496446+08:00 ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/archguy/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json", "--manifest-path", "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/archguy/CascadeProjects/MyLibrary/src-tauri") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:09.221902735+08:00 ERROR failed fetching cargo workspace root e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "locate-project" "--workspace" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+ cargo_toml=/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml
+2026-02-21T11:10:09.279990597+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTC_BOOTSTRAP="1" RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "target-spec-json" "--target" "x86_64-unknown-linux-gnu" "--" "-Z" "unstable-options" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:09.284266472+08:00  WARN failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O"`, falling back to invoking rustc directly e=cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "rustc" "-Z" "unstable-options" "--print" "cfg" "--target" "x86_64-unknown-linux-gnu" "--" "-O" failed, exit status: 101
+stderr:
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+2026-02-21T11:10:09.34021655+08:00 ERROR FetchWorkspaceError: rust-analyzer failed to load workspace: Failed to load the project at /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml: Failed to read Cargo metadata from Cargo.toml file /home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml, Some(Version { major: 1, minor: 95, patch: 0, pre: Prerelease("nightly") }): Failed to run `cd "/home/archguy/CascadeProjects/MyLibrary/src-tauri" && RUSTUP_AUTO_INSTALL="0" RUSTUP_TOOLCHAIN="/home/archguy/.rustup/toolchains/nightly-x86_64-unknown-linux-gnu" __CARGO_TEST_CHANNEL_OVERRIDE_DO_NOT_USE_THIS="nightly" "/home/archguy/.cargo/bin/cargo" "metadata" "--format-version" "1" "--manifest-path" "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml" "--filter-platform" "x86_64-unknown-linux-gnu" "--lockfile-path" "/tmp/rust-analyzerfd6e-d/Cargo.lock" "-Zunstable-options"`: `cargo metadata` exited with an error: warning: the `--lockfile-path` flag is deprecated and will be removed in a future release, use `resolver.lockfile-path` config instead
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+
+
+2026-02-21T11:10:09.448925377+08:00 ERROR Flycheck failed to run the following command: CommandHandle { program: "/home/archguy/.cargo/bin/cargo", arguments: ["check", "--workspace", "--message-format=json", "--manifest-path", "/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml", "--keep-going", "--all-targets"], current_dir: Some("/home/archguy/CascadeProjects/MyLibrary/src-tauri") }, error=Cargo watcher failed, the command produced no valid metadata (exit code: ExitStatus(unix_wait_status(25856))):
+error: failed to parse manifest at `/home/archguy/CascadeProjects/MyLibrary/src-tauri/Cargo.toml`
+
+Caused by:
+  failed to parse the `edition` key
+
+Caused by:
+  supported edition values are `2015`, `2018`, `2021`, or `2024`, but `2dfasf` is unknown
+

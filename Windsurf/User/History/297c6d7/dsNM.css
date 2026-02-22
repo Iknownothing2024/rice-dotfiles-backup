@@ -1,0 +1,55 @@
+/* Import a code highlighting theme */
+@import 'highlight.js/styles/github-dark.css';
+
+/* Custom overrides for better dark theme integration */
+.hljs {
+  background: #1f2937 !important;
+  color: #e5e7eb !important;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-literal,
+.hljs-section,
+.hljs-link {
+  color: #f472b6 !important;
+}
+
+.hljs-string,
+.hljs-title,
+.hljs-name,
+.hljs-type,
+.hljs-attribute,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #86efac !important;
+}
+
+.hljs-comment,
+.hljs-quote,
+.hljs-deletion,
+.hljs-meta {
+  color: #6b7280 !important;
+}
+
+.hljs-number,
+.hljs-regexp,
+.hljs-literal,
+.hljs-built_in,
+.hljs-builtin-name {
+  color: #fbbf24 !important;
+}
+
+.hljs-class .hljs-title {
+  color: #60a5fa !important;
+}
+
+.hljs-attr {
+  color: #c084fc !important;
+}

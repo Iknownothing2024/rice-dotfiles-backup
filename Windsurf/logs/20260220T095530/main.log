@@ -1,0 +1,9 @@
+2026-02-20 09:55:31.228 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"245536568feaf1fe62d92c8ec8a5f027","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/MyLibrary","external":"file:///home/archguy/CascadeProjects/MyLibrary","path":"/home/archguy/CascadeProjects/MyLibrary","scheme":"file"}}}
+2026-02-20 09:55:31.230 [info] update#setState idle
+2026-02-20 09:56:01.047 [info] update#setState checking for updates
+2026-02-20 09:56:01.292 [info] update#setState available for download
+2026-02-20 10:28:48.590 [info] Extension host with pid 7079 exited with code: 0, signal: unknown.
+2026-02-20 10:28:49.257 [info] WindsurfWindowsMainManager: Window will load {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-20 10:44:22.080 [info] Extension host with pid 22091 exited with code: 0, signal: unknown.
+2026-02-20 10:44:22.108 [info] WindsurfWindowsMainManager: Window will close {"windowId":1,"workspaceUri":{"id":"cebdf52d45ea236ac1955a7b3d620a38","uri":{"$mid":1,"fsPath":"/home/archguy/CascadeProjects/personal-website","external":"file:///home/archguy/CascadeProjects/personal-website","path":"/home/archguy/CascadeProjects/personal-website","scheme":"file"}}}
+2026-02-20 10:44:22.127 [info] WindsurfWindowsMainManager: Shutdown initiated, capturing current window group state

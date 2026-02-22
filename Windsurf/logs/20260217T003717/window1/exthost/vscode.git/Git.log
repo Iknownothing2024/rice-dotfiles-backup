@@ -1,0 +1,43 @@
+2026-02-17 00:37:21.386 [info] [main] Log level: Info
+2026-02-17 00:37:21.386 [info] [main] Validating found git in: "git"
+2026-02-17 00:37:21.386 [info] [main] Using git "2.53.0" from "git"
+2026-02-17 00:37:21.386 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-17 00:37:21.386 [info] > git rev-parse --show-toplevel [14ms]
+2026-02-17 00:37:21.386 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [28ms]
+2026-02-17 00:37:21.386 [info] [Model][openRepository] Opened repository (path): /home/archguy/CascadeProjects/personal-website
+2026-02-17 00:37:21.386 [info] [Model][openRepository] Opened repository (real path): /home/archguy/CascadeProjects/personal-website
+2026-02-17 00:37:21.386 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-17 00:37:21.387 [info] > git rev-parse --show-toplevel [6ms]
+2026-02-17 00:37:21.387 [info] > git config --get commit.template [11ms]
+2026-02-17 00:37:21.423 [info] > git rev-parse --show-toplevel [29ms]
+2026-02-17 00:37:21.430 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-02-17 00:37:21.431 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-17 00:37:21.449 [info] > git status -z -uall [7ms]
+2026-02-17 00:37:21.450 [info] > git rev-parse --show-toplevel [15ms]
+2026-02-17 00:37:21.455 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [6ms]
+2026-02-17 00:37:21.483 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2026-02-17 00:37:21.488 [info] > git rev-parse --show-toplevel [33ms]
+2026-02-17 00:37:21.493 [info] > git config --get --local branch.main.vscode-merge-base [5ms]
+2026-02-17 00:37:21.498 [info] > git config --get commit.template [14ms]
+2026-02-17 00:37:21.499 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2026-02-17 00:37:21.504 [info] > git rev-parse --show-toplevel [11ms]
+2026-02-17 00:37:21.513 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2026-02-17 00:37:21.518 [info] > git rev-parse --show-toplevel [6ms]
+2026-02-17 00:37:21.519 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-17 00:37:21.519 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2026-02-17 00:37:21.520 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% 49acfacc2978b64434ac4764b38e61e0d433a8b9...refs/remotes/origin/main -- [4ms]
+2026-02-17 00:37:21.529 [info] > git status -z -uall [5ms]
+2026-02-17 00:37:21.549 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [21ms]
+2026-02-17 00:37:21.665 [info] > git show --textconv :src/data/musicList.js [6ms]
+2026-02-17 00:37:21.666 [info] > git ls-files --stage -- src/data/musicList.js [1ms]
+2026-02-17 00:37:21.676 [info] > git cat-file -s d6bbf60baf8cbd3b18b7dee90c0efc15894fccb6 [6ms]
+2026-02-17 00:37:21.731 [info] > git blame --root --incremental 49acfacc2978b64434ac4764b38e61e0d433a8b9 -- src/data/musicList.js [3ms]
+2026-02-17 00:37:21.894 [info] > git check-ignore -v -z --stdin [1ms]
+2026-02-17 00:37:31.117 [info] > git show --textconv :src/components/Gallery.jsx [6ms]
+2026-02-17 00:37:31.118 [info] > git ls-files --stage -- src/components/Gallery.jsx [1ms]
+2026-02-17 00:37:31.123 [info] > git cat-file -s ffa80ca69b30e5edc68bc65e64b46123337d6291 [1ms]
+2026-02-17 00:37:31.249 [info] > git blame --root --incremental 49acfacc2978b64434ac4764b38e61e0d433a8b9 -- src/components/Gallery.jsx [85ms]
+2026-02-17 00:37:33.063 [info] > git config --get commit.template [8ms]
+2026-02-17 00:37:33.064 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2026-02-17 00:37:33.095 [info] > git status -z -uall [24ms]
+2026-02-17 00:37:33.095 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]

@@ -1,0 +1,2 @@
+2026-02-21 10:52:44.997 [error] #44: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT
+2026-02-21 10:53:18.549 [error] #45: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_TIMED_OUT

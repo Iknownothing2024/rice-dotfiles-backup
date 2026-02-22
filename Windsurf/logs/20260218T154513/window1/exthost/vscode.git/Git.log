@@ -1,0 +1,42 @@
+2026-02-18 15:45:15.919 [info] [main] Log level: Info
+2026-02-18 15:45:15.919 [info] [main] Validating found git in: "git"
+2026-02-18 15:45:15.919 [info] [main] Using git "2.53.0" from "git"
+2026-02-18 15:45:15.919 [info] [Model][doInitialScan] Initial repository scan started
+2026-02-18 15:45:15.919 [info] > git rev-parse --show-toplevel [43ms]
+2026-02-18 15:45:15.919 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [26ms]
+2026-02-18 15:45:15.919 [info] [Model][openRepository] Opened repository (path): /home/archguy/CascadeProjects/personal-website
+2026-02-18 15:45:15.919 [info] [Model][openRepository] Opened repository (real path): /home/archguy/CascadeProjects/personal-website
+2026-02-18 15:45:15.919 [info] [Model][openRepository] Opened repository (kind): repository
+2026-02-18 15:45:15.920 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 15:45:15.921 [info] > git config --get commit.template [11ms]
+2026-02-18 15:45:15.939 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2026-02-18 15:45:15.939 [info] > git rev-parse --show-toplevel [12ms]
+2026-02-18 15:45:15.958 [info] > git status -z -uall [5ms]
+2026-02-18 15:45:15.958 [info] > git rev-parse --show-toplevel [12ms]
+2026-02-18 15:45:15.962 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [5ms]
+2026-02-18 15:45:15.983 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2026-02-18 15:45:15.990 [info] > git rev-parse --show-toplevel [28ms]
+2026-02-18 15:45:15.997 [info] > git config --get --local branch.main.vscode-merge-base [7ms]
+2026-02-18 15:45:16.001 [info] > git config --get commit.template [19ms]
+2026-02-18 15:45:16.002 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2026-02-18 15:45:16.007 [info] > git rev-parse --show-toplevel [10ms]
+2026-02-18 15:45:16.036 [info] > git merge-base refs/heads/main refs/remotes/origin/main [30ms]
+2026-02-18 15:45:16.055 [info] > git diff --name-status -z --diff-filter=ADMR --find-renames=50% ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a...refs/remotes/origin/main -- [14ms]
+2026-02-18 15:45:16.055 [info] > git rev-parse --show-toplevel [20ms]
+2026-02-18 15:45:16.055 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [24ms]
+2026-02-18 15:45:16.061 [info] > git rev-parse --show-toplevel [2ms]
+2026-02-18 15:45:16.062 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-02-18 15:45:16.073 [info] > git status -z -uall [6ms]
+2026-02-18 15:45:16.074 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2026-02-18 15:45:16.214 [info] > git show --textconv :src/components/NotFound.jsx [5ms]
+2026-02-18 15:45:16.216 [info] > git ls-files --stage -- src/components/NotFound.jsx [4ms]
+2026-02-18 15:45:16.220 [info] > git cat-file -s b5919d7ab7952fd3f8160b70be60346265f9db5e [0ms]
+2026-02-18 15:45:16.237 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- src/components/NotFound.jsx [2ms]
+2026-02-18 15:45:17.183 [info] > git check-ignore -v -z --stdin [2ms]
+2026-02-18 15:45:17.861 [info] > git show --textconv :public/shitsays/2026-02-17.md [6ms]
+2026-02-18 15:45:17.862 [info] > git ls-files --stage -- public/shitsays/2026-02-17.md [1ms]
+2026-02-18 15:45:17.873 [info] > git cat-file -s b14befbc98330684e609c2c425d8a267a56d82e3 [7ms]
+2026-02-18 15:45:18.520 [info] > git show --textconv :public/shitsays/2026-02-18.md [7ms]
+2026-02-18 15:45:18.521 [info] > git ls-files --stage -- public/shitsays/2026-02-18.md [6ms]
+2026-02-18 15:45:18.525 [info] > git cat-file -s e9891b50ff5468488a3b5614023ee6db186569b2 [1ms]
+2026-02-18 15:45:18.534 [info] > git blame --root --incremental ba32cc42f05157c895a5f9f7b1d1f9a0f42aff0a -- public/shitsays/2026-02-18.md [2ms]

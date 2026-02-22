@@ -1,0 +1,2 @@
+2026-02-17 18:32:42.268 [error] #35: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_CLOSED
+2026-02-17 18:32:56.164 [error] #36: https://windsurf-telemetry.codeium.com/telemetry?cors=true&content-type=application/x-json-stream - error POST net::ERR_CONNECTION_RESET

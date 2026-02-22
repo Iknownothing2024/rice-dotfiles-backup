@@ -1,0 +1,64 @@
+2025-10-01 09:51:25 INFO  (LoggingInitialization) Using log config file: jar:file:/home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-10-01 09:51:25 INFO  (LoggingInitialization) Using log file: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC/application.log  
+2025-10-01 09:51:25 INFO  (Preferences) Loading user preferences: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC/preferences  
+2025-10-01 10:00:35 INFO  (ClassSearcher) Searching for classes...  
+2025-10-01 10:00:36 INFO  (ClassSearcher) Class search complete (674 ms)  
+2025-10-01 10:00:36 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-10-01 10:00:36 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-10-01 10:00:36 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-10-01 10:00:36 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-10-01 10:00:36 INFO  (GhidraRun) User archguy started Ghidra.  
+2025-10-01 10:00:36 INFO  (GhidraRun) User settings directory: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC  
+2025-10-01 10:00:36 INFO  (GhidraRun) User temp directory: /tmp/archguy-ghidra  
+2025-10-01 10:00:36 INFO  (GhidraRun) User cache directory: /var/tmp/archguy-ghidra  
+2025-10-01 10:00:36 DEBUG (DefaultProjectManager) No tools found; Installing default tools  
+2025-10-01 10:00:36 DEBUG (DefaultProjectManager) 	no recent project directories found  
+2025-10-01 10:00:37 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-10-01 10:00:37 INFO  (GhidraRun) Ghidra startup complete (552571 ms)  
+2025-10-01 10:07:05 INFO  (DefaultProject) Creating project: /home/archguy/MyTrove/cybersecurity-stuff/Be  
+2025-10-01 10:07:36 INFO  (FileCacheMaintenanceDaemon) Starting cache cleanup: /var/tmp/archguy-ghidra/fscache2  
+2025-10-01 10:07:36 INFO  (FileCacheMaintenanceDaemon) Finished cache cleanup, estimated storage used: 0  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Background processing started...  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Task Start: Auto Analysis  
+2025-10-01 10:11:48 INFO  (PackedDatabaseCache) Packed database cache: /var/tmp/archguy-ghidra/packed-db-cache  
+2025-10-01 10:11:48 DEBUG (PackedDatabaseCache) Caching packed database: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-01 10:11:48 DEBUG (PackedDatabase) Unpacking database /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt -> /var/tmp/archguy-ghidra/packed-db-cache/pdb18B4F968/db.1.gbf  
+2025-10-01 10:11:48 DEBUG (PackedDatabaseCache) Cache update completed: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-01 10:11:48 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: generic_clib_64  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Start: Auto Analysis  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Completed: Auto Analysis (0.0 secs)  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Task Completed: Auto Analysis (0.556 secs)  
+2025-10-01 10:11:48 DEBUG (ToolTaskManager) Background processing complete (0.557 secs)  
+2025-10-01 10:12:05 INFO  (RecoveryMgr) Wed Oct 01 10:12:05 CST 2025 Recovery snapshot created: /home/archguy/MyTrove/cybersecurity-stuff/Be.rep/idata/00/~00000000.db/snapshotA.grf  
+2025-10-26 13:50:29 INFO  (LoggingInitialization) Using log config file: jar:file:/home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Framework/Generic/lib/Generic.jar!/generic.log4j.xml  
+2025-10-26 13:50:29 INFO  (LoggingInitialization) Using log file: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC/application.log  
+2025-10-26 13:50:29 INFO  (Preferences) Loading user preferences: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC/preferences  
+2025-10-26 13:50:29 INFO  (ClassSearcher) Searching for classes...  
+2025-10-26 13:50:30 INFO  (ClassSearcher) Class search complete (706 ms)  
+2025-10-26 13:50:30 INFO  (SSLContextInitializer) Initializing SSL Context  
+2025-10-26 13:50:30 INFO  (SecureRandomFactory) Initializing Random Number Generator...  
+2025-10-26 13:50:30 INFO  (SecureRandomFactory) Random Number Generator initialization complete: NativePRNGNonBlocking  
+2025-10-26 13:50:30 INFO  (ApplicationTrustManagerFactory) Trust manager disabled, cacerts have not been set  
+2025-10-26 13:50:30 INFO  (GhidraRun) User archguy started Ghidra.  
+2025-10-26 13:50:30 INFO  (GhidraRun) User settings directory: /home/archguy/.config/ghidra/ghidra_11.4.2_PUBLIC  
+2025-10-26 13:50:30 INFO  (GhidraRun) User temp directory: /tmp/archguy-ghidra  
+2025-10-26 13:50:30 INFO  (GhidraRun) User cache directory: /var/tmp/archguy-ghidra  
+2025-10-26 13:50:31 DEBUG (RecoverySnapshotMgrPlugin) Recovery snapshot timer set to 5 minute(s)  
+2025-10-26 13:50:31 INFO  (DefaultProject) Opening project: /home/archguy/MyTrove/cybersecurity-stuff/Be  
+2025-10-26 13:50:31 INFO  (IndexJournal) restoring data storage index...  
+2025-10-26 13:50:33 INFO  (PackedDatabaseCache) Packed database cache: /var/tmp/archguy-ghidra/packed-db-cache  
+2025-10-26 13:50:33 DEBUG (PackedDatabaseCache) Caching packed database: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-26 13:50:33 DEBUG (PackedDatabase) Unpacking database /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt -> /var/tmp/archguy-ghidra/packed-db-cache/pdb3CE1AAE1/db.1.gbf  
+2025-10-26 13:50:33 DEBUG (PackedDatabaseCache) Cache update completed: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-26 13:50:34 INFO  (FileCacheMaintenanceDaemon) Starting cache cleanup: /var/tmp/archguy-ghidra/fscache2  
+2025-10-26 13:50:34 INFO  (FileCacheMaintenanceDaemon) Finished cache cleanup, estimated storage used: 0  
+2025-10-26 13:50:38 DEBUG (PackedDatabaseCache) Using cached packed database: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-26 13:50:38 INFO  (GhidraRun) Ghidra startup complete (9834 ms)  
+2025-10-26 13:54:24 DEBUG (PackedDatabaseCache) Using cached packed database: /home/archguy/Downloads/ghidra_11.4.2_PUBLIC_20250826/ghidra_11.4.2_PUBLIC/Ghidra/Features/Base/data/typeinfo/generic/generic_clib_64.gdt  
+2025-10-26 13:54:33 DEBUG (ToolTaskManager) Background processing started...  
+2025-10-26 13:54:33 DEBUG (ToolTaskManager) Task Start: Auto Analysis  
+2025-10-26 13:54:34 INFO  (ApplyDataArchiveAnalyzer) Applied data type archive: generic_clib_64  
+2025-10-26 13:54:34 DEBUG (ToolTaskManager) Start: Auto Analysis  
+2025-10-26 13:54:34 DEBUG (ToolTaskManager) Completed: Auto Analysis (0.0 secs)  
+2025-10-26 13:54:34 DEBUG (ToolTaskManager) Task Completed: Auto Analysis (0.758 secs)  
+2025-10-26 13:54:34 DEBUG (ToolTaskManager) Background processing complete (0.759 secs)  

@@ -1,0 +1,293 @@
+2026-02-21 10:06:21.163 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-02-21 10:06:21.210 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-02-21 10:06:21.548 [info] Started local extension host with pid 24159.
+2026-02-21 10:06:21.583 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2026-02-21 10:06:21.624 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2026-02-21 10:06:22.495 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-02-21 10:06:22.631 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at Q6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-02-21 10:06:24.280 [error] [Extension Host] (node:24159) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-02-21 10:06:24.413 [info] [DiffZone] Watching repo: scm0
+2026-02-21 10:06:24.413 [info] [DiffZone] No historyProvider for scm0
+2026-02-21 10:06:24.419 [info] [DiffZone] No revision for scm0
+2026-02-21 10:06:24.528 [info] [DiffZone] Revision for scm0: ba32cc4, prev: none
+2026-02-21 10:06:24.870 [info] [perf] Render performance baseline is 28ms
+2026-02-21 10:06:26.355 [error] Could not find pty 3 on pty host: CodeExpectedError: Could not find pty 3 on pty host
+    at R.X (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:46:6656)
+    at R.resize (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:46:2930)
+    at i.<computed> (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:45:3601)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:28:4194)
+    at pn.s (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:84585)
+    at pn.q (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:84108)
+    at xi.value (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:83510)
+    at x.C (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:2328)
+    at x.D (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:2398)
+    at x.fire (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:26:2615)
+    at MessagePortMain.E (file:///usr/share/windsurf/resources/app/out/vs/platform/terminal/node/ptyHostMain.js:24:30457)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-02-21 10:06:51.311 [error] command 'windsurf.fireProductAnalyticsEvent' not found: Error: command 'windsurf.fireProductAnalyticsEvent' not found
+    at $UBc.n (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1573:6089)
+    at $UBc.executeCommand (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1573:6020)
+2026-02-21 10:07:06.861 [error] An unknown error occurred. Please consult the log for more details.
+2026-02-21 10:20:47.526 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-21 10:52:25.523 [error] [Extension Host] FetchError: Unleash Repository error: network timeout at: https://unleash.codeium.com/api/client/features
+	at Timeout.<anonymous> (/usr/share/windsurf/resources/app/extensions/windsurf/dist/extension.js:2:3119310)
+	at listOnTimeout (node:internal/timers:588:17)
+	at process.processTimers (node:internal/timers:523:7)
+2026-02-21 10:58:36.538 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-02-21 10:58:36.577 [warning] IWorkbenchContributionsRegistry#getContribution('windsurf.cascadePanel'): contribution instantiated before LifecyclePhase.Restored!
+2026-02-21 10:58:36.725 [info] Started local extension host with pid 52424.
+2026-02-21 10:58:36.990 [error] Extension 'ms-python.vscode-python-envs' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalShellEnv, terminalDataWriteEvent
+product.json (WINS): terminalShellEnv
+2026-02-21 10:58:37.011 [warning] [ms-python.python]: Cannot register 'python.venvPath'. This property is already registered.
+2026-02-21 10:58:37.385 [info] [DiffZone] BaselineResolution init, 0 existing repos
+2026-02-21 10:58:37.506 [error] App icon customization is not supported on this OS: Error: App icon customization is not supported on this OS
+    at Q6.setIcon (file:///usr/share/windsurf/resources/app/out/main.js:147:3603)
+    at Object.call (file:///usr/share/windsurf/resources/app/out/main.js:33:4554)
+    at Zp.s (file:///usr/share/windsurf/resources/app/out/main.js:31:15212)
+    at Zp.q (file:///usr/share/windsurf/resources/app/out/main.js:31:14735)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:31:14137)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D (file:///usr/share/windsurf/resources/app/out/main.js:30:2398)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2615)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5384)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at Ta.value (file:///usr/share/windsurf/resources/app/out/main.js:28:5568)
+    at D.C (file:///usr/share/windsurf/resources/app/out/main.js:30:2328)
+    at D.fire (file:///usr/share/windsurf/resources/app/out/main.js:30:2546)
+    at H (file:///usr/share/windsurf/resources/app/out/main.js:28:7826)
+    at IpcMainImpl.i (file:///usr/share/windsurf/resources/app/out/main.js:36:10815)
+    at IpcMainImpl.emit (node:events:519:28)
+    at Session.<anonymous> (node:electron/js2c/browser_init:2:112437)
+    at Session.emit (node:events:519:28)
+2026-02-21 10:58:39.904 [info] [perf] Render performance baseline is 26ms
+2026-02-21 10:58:41.361 [error] An unknown error occurred. Please consult the log for more details.
+2026-02-21 11:06:58.808 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: workbench.secondarySideBar.enableDefaultVisibilityInOldWorkspace, extensions.requestTimeout, chat.agent.terminal.allowList, chat.agent.terminal.autoApprove, chat.agent.terminal.denyList, chat.tools.terminal.autoApprove, chat.tools.terminal.autoReplyToPrompts, chat.tools.terminal.blockDetectedFileWrites, chat.tools.terminal.enableAutoApprove, chat.tools.terminal.ignoreDefaultAutoApproveRules, chat.tools.terminal.outputLocation, chat.tools.terminal.shellIntegrationTimeout, chat.tools.terminal.terminalProfile.linux, chat.tools.terminal.terminalProfile.osx, chat.tools.terminal.terminalProfile.windows, github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList, terminal.integrated.developer.devMode, terminal.integrated.developer.ptyHost.latency, terminal.integrated.developer.ptyHost.startupDelay, deepwiki.disabled, deepwiki.resolveAllWords, inlineChat.accessibleDiffView, inlineChat.enableV2, inlineChat.finishOnType, inlineChat.holdToSpeech, inlineChat.notebookAgent, chat.agent.codeBlockProgress, chat.agent.enabled, chat.agent.maxRequests, chat.agent.thinking.collapsedTools, chat.agent.thinking.generateTitles, chat.agent.thinkingStyle, chat.agentSessionsViewLocation, chat.allowAnonymousAccess, chat.checkpoints.enabled, chat.checkpoints.showFileChanges, chat.commandCenter.enabled, chat.customAgentInSubagent.enabled, chat.detectParticipant.enabled, chat.disableAIFeatures, chat.editing.autoAcceptDelay, chat.editing.confirmEditRequestRemoval, chat.editing.confirmEditRequestRetry, chat.editor.fontFamily, chat.editor.fontSize, chat.editor.fontWeight, chat.editor.lineHeight, chat.editor.wordWrap, chat.editRequests, chat.edits2.enabled, chat.exitAfterDelegation, chat.experimental.detectParticipant.enabled, chat.extensionTools.enabled, chat.extensionUnification.enabled, chat.fontFamily, chat.fontSize, chat.implicitContext.enabled, chat.implicitContext.suggestedContext, chat.instructionsFilesLocations, chat.math.enabled, chat.mcp.access, chat.mcp.assisted.nuget.enabled, chat.mcp.autostart, chat.mcp.discovery.enabled, chat.mcp.gallery.enabled, chat.mcp.serverSampling, chat.modeFilesLocations, chat.notifyWindowOnConfirmation, chat.notifyWindowOnResponseReceived, chat.promptFilesLocations, chat.promptFilesRecommendations, chat.renderRelatedFiles, chat.restoreLastPanelSession, chat.sendElementsToChat.attachCSS, chat.sendElementsToChat.attachImages, chat.sendElementsToChat.enabled, chat.showAgentSessionsViewDescription, chat.suspendThrottling, chat.todoListTool.descriptionField, chat.todoListTool.writeOnly, chat.tools.edits.autoApprove, chat.tools.eligibleForAutoApproval, chat.tools.global.autoApprove, chat.tools.todos.showWidget, chat.tools.urls.autoApprove, chat.undoRequests.restoreInput, chat.useAgentsMdFile, chat.useClaudeSkills, chat.useNestedAgentsMdFiles, chat.viewSessions.enabled, chat.viewSessions.orientation, chat.viewTitle.enabled, chat.viewWelcome.enabled
+2026-02-21 11:10:02.079 [error] [Extension Host] (node:52424) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-02-21 12:47:25.552 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-02-21 12:47:25.592 [error] Unable to read file '/home/archguy/CascadeProjects/MyLibrary/src/assets/Books/Covers/Flowers-for-Algernon-CN.jpg' (Error: Unable to resolve nonexistent file '/home/archguy/CascadeProjects/MyLibrary/src/assets/Books/Covers/Flowers-for-Algernon-CN.jpg'): Error: Unable to read file '/home/archguy/CascadeProjects/MyLibrary/src/assets/Books/Covers/Flowers-for-Algernon-CN.jpg' (Error: Unable to resolve nonexistent file '/home/archguy/CascadeProjects/MyLibrary/src/assets/Books/Covers/Flowers-for-Algernon-CN.jpg')
+    at $cV.G (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18911:72375)
+    at $cV.F (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18911:72188)
+    at async $4md.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:11989)
+    at async $4md.readStream (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:11761)
+    at async $mCc.Eb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:13488)
+    at async $mCc.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:11958)
+    at async $ued.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:8120)
+    at async ResourceModelCollection.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:23492)
+2026-02-21 12:47:58.547 [error] [createInstance] $$rc depends on UNKNOWN service agentSessions.: Error: [createInstance] $$rc depends on UNKNOWN service agentSessions.
+    at V$e.y (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:4137)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1254)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $uJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:8566)
+    at new $vJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:16681)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+    at new $wJc (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16852:19789)
+    at V$e.o (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1604)
+    at V$e.createInstance (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:16182:1098)
+2026-02-21 12:47:58.588 [error] File seems to be binary and cannot be opened as text: Error: File seems to be binary and cannot be opened as text
+    at $4md.L (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:12137)
+    at async $4md.readStream (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:11761)
+    at async $mCc.Eb (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:13488)
+    at async $mCc.resolve (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:11958)
+    at async $ued.W (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:18916:8120)
+    at async ResourceModelCollection.r (vscode-file://vscode-app/usr/share/windsurf/resources/app/out/vs/workbench/workbench.desktop.main.js:1620:23492)
+2026-02-21 13:28:51.270 [error] <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21): Error: <semantic> TypeScript Server Error (5.9.3)
+Debug Failure. False expression: Token end is child end
+Error: Debug Failure. False expression: Token end is child end
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182065:17)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxAttribute (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32827:45)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxAttributes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32824:12)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181996:9
+    at visitNode2 (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32449:18)
+    at forEachChildInJsxOpeningOrSelfClosingElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32942:97)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxElement (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32816:55)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at processChildNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182072:7)
+    at processChildNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182115:32)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:182009:9
+    at visitNodes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32454:14)
+    at forEachChildInJsxFragment (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32819:56)
+    at forEachChild (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:32970:35)
+    at processNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181993:5)
+    at formatSpanWorker (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181790:5)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:105
+    at getFormattingScanner (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:180502:15)
+    at Object.formatNodeGivenIndentation (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:181730:10)
+    at getFormattedTextOfNode (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179904:43)
+    at format (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179885:27)
+    at computeNewText (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179886:217)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179847:25
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179844:28
+    at mapDefined (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2606:22)
+    at Object.getTextChangesFromChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179838:12)
+    at _ChangeTracker.getChanges (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179735:35)
+    at _ChangeTracker.with (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:179214:20)
+    at Object.getCodeActionsToWrapJsxInFragment [as getCodeActions] (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:166328:62)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:46
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:155231:10)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153495:33
+    at flatMap (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:2536:17)
+    at Object.getCodeFixesAtPosition (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:153493:12)
+    at IpcIOSession.getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196513:50)
+    at getCodeFixes (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:194518:43)
+    at /usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196832:15
+    at IpcIOSession.executeWithRequestId (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196821:14)
+    at IpcIOSession.executeCommand (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196830:29)
+    at IpcIOSession.onMessage (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/typescript.js:196878:68)
+    at process.<anonymous> (/usr/share/windsurf/resources/app/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:519:28)
+    at emit (node:internal/child_process:949:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+	at n.create (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:496163)
+	at y.dispatchResponse (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:169400)
+	at y.dispatchMessage (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167841)
+	at ChildProcess.<anonymous> (/usr/share/windsurf/resources/app/extensions/typescript-language-features/dist/extension.js:2:167126)
+	at ChildProcess.emit (node:events:519:28)
+	at emit (node:internal/child_process:949:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:91:21)
+2026-02-21 15:10:24.896 [error] Cannot show while inline completion is already showing

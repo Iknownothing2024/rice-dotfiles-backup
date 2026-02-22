@@ -1,0 +1,87 @@
+2026-02-17 11:58:57.036 [info] (Windsurf) 2026-02-17 11:58:57.035 [INFO]: [windsurf#terminal] Shell integration DETECTED for managed
+2026-02-17 11:59:35.811 [info] (Windsurf) 2026-02-17 11:59:35.810 [INFO]: [windsurf#terminal] Shell integration FAILED for unknown, reason: failedToSetStickyBit
+2026-02-17 11:59:36.220 [info] 2026/02/17 11:59:36 maxprocs: Leaving GOMAXPROCS=8: CPU quota undefined
+2026-02-17 11:59:36.426 [info] I0217 11:59:36.426623 90088 main.go:604] Setting GOMAXPROCS to 4
+2026-02-17 11:59:36.429 [info] I0217 11:59:36.429343 90088 main.go:819] Starting language server process with pid 90088
+2026-02-17 11:59:36.432 [info] I0217 11:59:36.432247 90088 server.go:359] Language server will attempt to listen on host 127.0.0.1
+2026-02-17 11:59:36.433 [info] I0217 11:59:36.433087 90088 server.go:366] Language server listening on random port at 44125
+2026-02-17 11:59:37.274 [info] I0217 11:59:37.274032 90088 server.go:500] Created extension server client at port 45229
+2026-02-17 11:59:37.515 [info] (Windsurf) 2026-02-17 11:59:37.514 [INFO]: Language server started
+2026-02-17 11:59:37.601 [info] (Windsurf) 2026-02-17 11:59:37.601 [INFO]: LS lspClient started successfully
+2026-02-17 11:59:49.396 [info] I0217 11:59:49.396551 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:49.919 [info] I0217 11:59:49.916980 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:50.097 [info] I0217 11:59:50.097487 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:50.247 [info] I0217 11:59:50.247039 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:52.743 [info] I0217 11:59:52.743091 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:52.962 [info] I0217 11:59:52.962032 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:53.131 [info] I0217 11:59:53.131475 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:53.334 [info] I0217 11:59:53.334607 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:56.433 [info] I0217 11:59:56.433673 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:56.632 [info] I0217 11:59:56.630930 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:56.775 [info] I0217 11:59:56.775640 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:57.066 [info] I0217 11:59:57.066803 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:57.277 [info] I0217 11:59:57.269196 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:59.246 [info] I0217 11:59:59.245675 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:59.580 [info] I0217 11:59:59.570565 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:59.707 [info] I0217 11:59:59.698116 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:59.803 [info] I0217 11:59:59.803239 90088 completion_provider.go:869] err: context canceled
+2026-02-17 11:59:59.952 [info] I0217 11:59:59.952161 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:00.275 [info] I0217 12:00:00.275320 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:00.471 [info] I0217 12:00:00.464026 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:00.644 [info] I0217 12:00:00.644249 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:02.762 [info] I0217 12:00:02.762503 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:04.829 [info] I0217 12:00:04.829222 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.024 [info] I0217 12:00:05.024291 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.265 [info] I0217 12:00:05.265016 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.549 [info] I0217 12:00:05.533342 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.603 [info] I0217 12:00:05.603723 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.765 [info] I0217 12:00:05.758246 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:05.984 [info] I0217 12:00:05.984076 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:06.188 [info] I0217 12:00:06.187799 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:06.433 [info] I0217 12:00:06.433276 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:09.166 [info] I0217 12:00:09.166859 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:09.506 [info] I0217 12:00:09.506318 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:09.713 [info] I0217 12:00:09.667315 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:09.714 [info] I0217 12:00:09.714239 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:09.903 [info] I0217 12:00:09.903212 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:10.066 [info] I0217 12:00:10.065908 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:10.424 [info] I0217 12:00:10.414617 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:10.514 [info] I0217 12:00:10.514117 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:11.479 [info] I0217 12:00:11.479554 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:11.559 [info] I0217 12:00:11.559398 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:11.728 [info] I0217 12:00:11.727797 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:11.900 [info] I0217 12:00:11.899665 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:15.732 [info] I0217 12:00:15.732411 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:15.879 [info] I0217 12:00:15.879803 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:15.989 [info] I0217 12:00:15.989214 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:19.024 [info] I0217 12:00:19.023868 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:19.445 [info] I0217 12:00:19.445091 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:19.617 [info] I0217 12:00:19.616948 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:20.448 [info] I0217 12:00:20.448741 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:20.877 [info] I0217 12:00:20.877064 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:21.234 [info] I0217 12:00:21.233929 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:21.547 [info] I0217 12:00:21.546959 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:22.792 [info] I0217 12:00:22.772561 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:22.838 [info] I0217 12:00:22.838538 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:22.986 [info] I0217 12:00:22.976295 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:23.337 [info] I0217 12:00:23.327170 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:23.874 [info] I0217 12:00:23.873898 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:24.108 [info] I0217 12:00:24.106388 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:24.264 [info] I0217 12:00:24.264529 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:24.486 [info] I0217 12:00:24.485702 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:25.776 [info] I0217 12:00:25.775430 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:25.917 [info] I0217 12:00:25.917155 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:26.323 [info] I0217 12:00:26.323140 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:27.349 [info] I0217 12:00:27.348616 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:27.473 [info] I0217 12:00:27.473324 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:27.953 [info] I0217 12:00:27.952278 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.102 [info] I0217 12:00:28.102246 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.174 [info] I0217 12:00:28.173882 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.512 [info] I0217 12:00:28.512427 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.782 [info] I0217 12:00:28.774304 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.830 [info] I0217 12:00:28.830381 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:28.890 [info] I0217 12:00:28.889527 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:31.314 [info] I0217 12:00:31.311390 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:31.477 [info] I0217 12:00:31.473313 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:00:31.803 [info] I0217 12:00:31.794129 90088 completion_provider.go:869] err: context canceled
+2026-02-17 12:52:46.852 [info] (Windsurf) 2026-02-17 12:52:46.850 [INFO]: Shutting down all 0 managed language servers
